@@ -4,4 +4,4 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 
 |                         Link                         |                           Title                            |  Tag  |    Difficulty     |
 | :--------------------------------------------------: | :--------------------------------------------------------: | :---: | :---------------: |
-| [283](https://leetcode-cn.com/problems/move-zeroes/) | [Move Zeroes](problems/283.&#32;Move&#32;Zeroes/readme.md) | Array | ![](img/easy.png) |
+| [leetcode283_RemoveZeroes](https://leetcode-cn.com/problems/move-zeroes/) | [Move Zeroes](problems/283.&#32;Move&#32;Zeroes/readme.md) | Array | ![](img/easy.png) |
