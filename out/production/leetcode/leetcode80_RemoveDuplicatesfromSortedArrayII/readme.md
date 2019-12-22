@@ -28,19 +28,26 @@ It doesn't matter what values are set beyond the returned length.
 
 # Solution1:
 
-双指针遍历
+双指针, fastCursor, slowCursor, 分别代表: 遍历指针和可以覆写的位置
+需要去比较fastCursor和slowCursor -1 的单元是否相同.
+
+第一版的代码考虑的情况太多, 简化后为:
 
 ```
-public int removeDuplicates(int[] nums) {
-    if (nums.length <= 1) {
+public int removeDuplicates2(int[] nums) {
+    if (nums.length <= 2) {
       return nums.length;
     }
 
-    int slowCursor = 0;
-    int fastCursor = 1;
+    // the slowCursor + 1 is to be replaced.
+    // slowCursor - 1 is the first element
+    int slowCursor = 1;
+    // iterate cursor;
+    int fastCursor = 2;
 
     while (fastCursor < nums.length) {
-      if (nums[fastCursor] == nums[slowCursor]) {
+
+      if (nums[fastCursor] == nums[slowCursor] && nums[fastCursor] == nums[slowCursor - 1]) {
         fastCursor++;
       } else {
         slowCursor++;

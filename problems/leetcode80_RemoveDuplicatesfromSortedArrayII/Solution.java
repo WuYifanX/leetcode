@@ -22,17 +22,9 @@ public class Solution {
       if (nums[fastCursor] == nums[slowCursor] && nums[fastCursor] == nums[slowCursor - 1]) {
         fastCursor++;
       } else {
-
-        if (nums[fastCursor] != nums[slowCursor]) {
-          slowCursor++;
-          nums[slowCursor] = nums[fastCursor];
-          fastCursor++;
-
-        } else if (nums[fastCursor] != nums[slowCursor - 1]) {
-          slowCursor++;
-          nums[slowCursor] = nums[fastCursor];
-          fastCursor++;
-        }
+        slowCursor++;
+        nums[slowCursor] = nums[fastCursor];
+        fastCursor++;
       }
     }
 
