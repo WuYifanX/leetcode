@@ -19,11 +19,38 @@ Could you come up with a one-pass algorithm using only constant space?
 
 # Thoughts:
 
-需要考虑:
-
 
 # Solution1:
+三路快速排序
 
 ```
+public void sortColors(int[] nums) {
+
+    if (nums.length <= 1) {
+      return;
+    }
+
+    // [0, ..., lessThanPointer] is value = 0
+    int lessThanPointer = -1;
+
+    // [lessThanPointer +1, ... , cursor -1] is value = 1;
+    int cursor = 0;
+    // [greatThanPointer, ...., nums.length -1] is value = 2;
+    int greatThanPointer = nums.length;
+
+    while (cursor < greatThanPointer) {
+
+      if (nums[cursor] == 0) {
+        lessThanPointer++;
+        swap(nums, lessThanPointer, cursor);
+        cursor++;
+      } else if (nums[cursor] == 1) {
+        cursor++;
+      } else {
+        greatThanPointer--;
+        swap(nums, cursor, greatThanPointer);
+      }
+    }
+  }
 
 ```
