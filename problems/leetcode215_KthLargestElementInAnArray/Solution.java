@@ -29,6 +29,9 @@ public class Solution {
       return start;
     }
 
+    int randomIndex = (int) ((end - start + 1) * Math.random()) + start;
+    swap(nums, start, randomIndex);
+
     int lessThanPointer = start;
     int cursor = start + 1;
     for (; cursor <= end; cursor++) {
@@ -54,7 +57,7 @@ public class Solution {
     //    Input: [3,2,1,5,6,4] and k = 2
     //    Output: 5
 
-    int[] input = new int[] {3, 2, 1, 5, 6, 4};
+    int[] input = new int[] {3, 1, 2, 4};
     int result = new Solution().findKthLargest(input, 2);
     System.out.println(result);
   }

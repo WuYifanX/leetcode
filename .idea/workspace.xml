@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="308">
-                <caret line="14" column="149" selection-start-line="14" selection-start-column="149" selection-end-line="14" selection-end-column="149" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,9 +60,9 @@
         <option value="$PROJECT_DIR$/problems/leetcode26_RemoveDuplicatesFromSortedArray/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode88_MergeSortedArray/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode88_MergeSortedArray/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/readme.md" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -249,16 +237,15 @@
       <workItem from="1577008102722" duration="783000" />
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
-      <workItem from="1577066057891" duration="10116000" />
+      <workItem from="1577066057891" duration="11769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23269000" />
+    <option name="totallyTimeSpent" value="24922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-320" width="1920" height="1177" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.50455767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -267,14 +254,14 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22701688" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45590994" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4587242" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44277674" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44277674" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32898173" />
@@ -289,13 +276,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="nums" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -415,11 +395,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="440">
-            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -427,16 +407,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" selection-start-column="8" selection-end-column="46" />
+        <state relative-caret-position="168">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="14" column="149" selection-start-line="14" selection-start-column="149" selection-end-line="14" selection-end-column="149" />
+          <first_editor relative-caret-position="455">
+            <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>

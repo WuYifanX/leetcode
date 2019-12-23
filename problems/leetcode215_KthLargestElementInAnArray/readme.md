@@ -18,6 +18,7 @@ You may assume k is always valid, 1 ≤ k ≤ array's length.
 2. 但是最快的就是快拍的partition操作.
 3. 不过需要转化kth largest这个问题到排序之后的index的这个问题.
 4. 需要注意好排序的边界问题.
+5. 快拍需要注意退化问题, 最好每次选取pivot的时候, 选择 int randomIndex = (int) ((end - start + 1) * Math.random()) + start;
 
 ```java
 
@@ -49,6 +50,9 @@ public class Solution {
     if (start >= end) {
       return start;
     }
+    
+    int randomIndex = (int)(Math.random() * (end - start + 1)) + start;
+    swap(nums, randomIndex, start);
 
     int lessThanPointer = start;
     int cursor = start + 1;
