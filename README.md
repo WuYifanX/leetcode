@@ -12,7 +12,7 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 | [leetcode80_remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [remove-duplicates-from-sorted-array-ii](/problems/leetcode80_RemoveDuplicatesfromSortedArrayII/readme.md) | Array | ![](img/medium.png) | ✅ |
 | [leetcode75_sort-colors](https://leetcode-cn.com/problems/sort-colors/) | [sort-colors](/problems/leetcode75_SortColors/readme.md) | Array, Sort | ![](img/medium.png) | ❌ |
 | [leetcode88_merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/) | [merge-sorted-array](/problems/leetcode88_MergeSortedArray/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode215_kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [merge-sorted-array](/problems/leetcode215_KthLargestElementInAnArray/readme.md) | Array, Sort | ![](img/medium.png) | ✅ |
+| [leetcode215_kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [kth-largest-element-in-an-array](/problems/leetcode215_KthLargestElementInAnArray/readme.md) | Array, Sort | ![](img/medium.png) | ✅ |
 
 
 
