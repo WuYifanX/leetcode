@@ -15,7 +15,8 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 | [leetcode215_kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [kth-largest-element-in-an-array](/problems/leetcode215_KthLargestElementInAnArray/readme.md) | Array, Sort | ![](img/medium.png) | ✅ |
 | [leetcode1_two-sum](https://leetcode-cn.com/problems/two-sum/) | [two-sum](/problems/leetcode1_TwoSum/readme.md) | Array | ![](img/easy.png) | ❌ |
 | [leetcode167_two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [two-sum-ii-input-array-is-sorted](/problems/leetcode167_TwoSumII/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode125_ValidPalindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [valid-palindrome](/problems/leetcode125_ValidPalindrome/readme.md) | String | ![](img/easy.png) | ✅ |
+| [leetcode125_valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [valid-palindrome](/problems/leetcode125_ValidPalindrome/readme.md) | String | ![](img/easy.png) | ✅ |
+| [leetcode345_reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [reverse-vowels-of-a-string](/problems/leetcode345_ReverseVowelsofAString/readme.md) | String | ![](img/easy.png) | ❌ |
 
 
 

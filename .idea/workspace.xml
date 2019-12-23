@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode125_ValidPalindrome/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode125_ValidPalindrome/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode125_ValidPalindrome/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode125_ValidPalindrome/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +19,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="47" lean-forward="true" selection-start-line="1" selection-end-line="47" />
+            <state relative-caret-position="-260">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/readme.md">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="228">
-                <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <first_editor relative-caret-position="440">
+                <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,6 +51,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>poval</find>
+      <find>leotcede</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,9 +93,11 @@
         <option value="$PROJECT_DIR$/problems/leetcode1_TwoSum/Readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/readme.md" />
       </list>
     </option>
   </component>
@@ -129,7 +135,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode125_ValidPalindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode345_ReverseVowelsofAString" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -146,7 +152,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems/leetcode1_TwoSum" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -157,11 +163,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/problems/leetcode1_TwoSum" />
       <recent name="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome" />
       <recent name="$PROJECT_DIR$/problems/leetcode167_TwoSumII" />
       <recent name="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray" />
       <recent name="$PROJECT_DIR$/problems/leetcode88_MergeSortedArray" />
-      <recent name="$PROJECT_DIR$/problems/leetcode75_SortColors     " />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode215_KthLargestElementInAnArray.Solution" />
       <module name="leetcode" />
@@ -229,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode88_MergeSortedArray.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode345_ReverseVowelsofAString.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode88_MergeSortedArray.*" />
+          <option name="PATTERN" value="leetcode345_ReverseVowelsofAString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -265,32 +271,32 @@
       <workItem from="1577008102722" duration="783000" />
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
-      <workItem from="1577066057891" duration="20149000" />
+      <workItem from="1577066057891" duration="21207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33302000" />
+    <option name="totallyTimeSpent" value="34360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5039711" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20505415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29765013" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3093995" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3616188" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44277674" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.44255874" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32898173" />
@@ -515,11 +521,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -527,16 +533,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="47" lean-forward="true" selection-start-line="1" selection-end-line="47" />
+        <state relative-caret-position="255">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/readme.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="489">
+            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="228">
-            <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <first_editor relative-caret-position="440">
+            <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
