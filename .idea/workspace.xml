@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode11_ContainerWithMostWater/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode11_ContainerWithMostWater/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode345_ReverseVowelsofAString/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode345_ReverseVowelsofAString/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode345_ReverseVowelsofAString/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode345_ReverseVowelsofAString/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode11_ContainerWithMostWater/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode11_ContainerWithMostWater/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="418">
-                <caret line="19" column="221" selection-start-line="19" selection-start-column="221" selection-end-line="19" selection-end-column="221" />
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -51,6 +50,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/problems/leetcode11_ContainerWithMostWater/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" root0="FORCE_HIGHLIGHTING" />
@@ -93,6 +93,8 @@
         <option value="$PROJECT_DIR$/problems/leetcode345_ReverseVowelsofAString/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode11_ContainerWithMostWater/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode11_ContainerWithMostWater/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -129,6 +131,18 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode167_TwoSumII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode209_MinimumSizeSubarraySum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -142,7 +156,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems/leetcode1_TwoSum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -153,11 +167,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum" />
       <recent name="$PROJECT_DIR$/problems/leetcode1_TwoSum" />
       <recent name="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome" />
       <recent name="$PROJECT_DIR$/problems/leetcode167_TwoSumII" />
       <recent name="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray" />
-      <recent name="$PROJECT_DIR$/problems/leetcode88_MergeSortedArray" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,13 +186,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode1_TwoSum.Solution" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode209_MinimumSizeSubarraySum.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode1_TwoSum.*" />
+          <option name="PATTERN" value="leetcode209_MinimumSizeSubarraySum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -261,25 +275,25 @@
       <workItem from="1577008102722" duration="783000" />
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
-      <workItem from="1577066057891" duration="25300000" />
+      <workItem from="1577066057891" duration="30602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38453000" />
+    <option name="totallyTimeSpent" value="43755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22815885" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22815885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3093995" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37336814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42428198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,11 +576,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="407">
+            <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="19" column="221" selection-start-line="19" selection-start-column="221" selection-end-line="19" selection-end-column="221" />
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>

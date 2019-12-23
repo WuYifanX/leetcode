@@ -4,20 +4,21 @@
 
 My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunterxmoon/)
 
-|                                    LeetCode Link                                     |                            To My Solution                             |  Tag  |    Difficulty     |    Review Needed     |
-| :--------------------------------------------------------------------------: | :----------------------------------------------------------: | :---: | :---------------: |:---------------: |
-|  [leetcode283_move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)   | [MoveZeroes](/problems/leetcode283_RemoveZeroes/readme.md)  | Array | ![](img/easy.png) | ❌ |
-| [leetcode27_remove-element](https://leetcode-cn.com/problems/remove-element/) | [MoveElement](/problems/leetcode27_RemoveElement/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode26_remove-duplicates-from-sorted-array](https://https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [remove-duplicates-from-sorted-array](/problems/leetcode26_RemoveDuplicatesFromSortedArray/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode80_remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [remove-duplicates-from-sorted-array-ii](/problems/leetcode80_RemoveDuplicatesfromSortedArrayII/readme.md) | Array | ![](img/medium.png) | ✅ |
-| [leetcode75_sort-colors](https://leetcode-cn.com/problems/sort-colors/) | [sort-colors](/problems/leetcode75_SortColors/readme.md) | Array, Sort | ![](img/medium.png) | ❌ |
-| [leetcode88_merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/) | [merge-sorted-array](/problems/leetcode88_MergeSortedArray/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode215_kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [kth-largest-element-in-an-array](/problems/leetcode215_KthLargestElementInAnArray/readme.md) | Array, Sort | ![](img/medium.png) | ✅ |
-| [leetcode1_two-sum](https://leetcode-cn.com/problems/two-sum/) | [two-sum](/problems/leetcode1_TwoSum/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode167_two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [two-sum-ii-input-array-is-sorted](/problems/leetcode167_TwoSumII/readme.md) | Array | ![](img/easy.png) | ❌ |
-| [leetcode125_valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [valid-palindrome](/problems/leetcode125_ValidPalindrome/readme.md) | String | ![](img/easy.png) | ✅ |
-| [leetcode345_reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [reverse-vowels-of-a-string](/problems/leetcode345_ReverseVowelsofAString/readme.md) | String | ![](img/easy.png) | ❌ |
-| [leetcode11_container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/) | [container-with-most-water](/problems/leetcode11_ContainerWithMostWater/readme.md) | Array | ![](img/medium.png) | ✅ |
+| No. |                                    LeetCode Link                                     |                            To My Solution                             |  Tag  |    Difficulty     |    Review Needed     |
+| :---: | :--------------------------------------------------------------------------: | :----------------------------------------------------------: | :---: | :---------------: |:---------------: |
+|1| [leetcode283_move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)   | [MoveZeroes](/problems/leetcode283_RemoveZeroes/readme.md)  | Array | ![](img/easy.png) | ❌ |
+|2| [leetcode27_remove-element](https://leetcode-cn.com/problems/remove-element/) | [MoveElement](/problems/leetcode27_RemoveElement/readme.md) | Array | ![](img/easy.png) | ❌ |
+|3| [leetcode26_remove-duplicates-from-sorted-array](https://https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [remove-duplicates-from-sorted-array](/problems/leetcode26_RemoveDuplicatesFromSortedArray/readme.md) | Array | ![](img/easy.png) | ❌ |
+|4| [leetcode80_remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [remove-duplicates-from-sorted-array-ii](/problems/leetcode80_RemoveDuplicatesfromSortedArrayII/readme.md) | Array | ![](img/medium.png) | ✅ |
+|5| [leetcode75_sort-colors](https://leetcode-cn.com/problems/sort-colors/) | [sort-colors](/problems/leetcode75_SortColors/readme.md) | Array, Sort | ![](img/medium.png) | ❌ |
+|6| [leetcode88_merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/) | [merge-sorted-array](/problems/leetcode88_MergeSortedArray/readme.md) | Array | ![](img/easy.png) | ❌ |
+|7| [leetcode215_kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [kth-largest-element-in-an-array](/problems/leetcode215_KthLargestElementInAnArray/readme.md) | Array, Sort | ![](img/medium.png) | ✅ |
+|8| [leetcode1_two-sum](https://leetcode-cn.com/problems/two-sum/) | [two-sum](/problems/leetcode1_TwoSum/readme.md) | Array | ![](img/easy.png) | ❌ |
+|9| [leetcode167_two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [two-sum-ii-input-array-is-sorted](/problems/leetcode167_TwoSumII/readme.md) | Array | ![](img/easy.png) | ❌ |
+|10| [leetcode125_valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome/) | [valid-palindrome](/problems/leetcode125_ValidPalindrome/readme.md) | String | ![](img/easy.png) | ✅ |
+|11| [leetcode345_reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [reverse-vowels-of-a-string](/problems/leetcode345_ReverseVowelsofAString/readme.md) | String | ![](img/easy.png) | ❌ |
+|12| [leetcode11_container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/) | [container-with-most-water](/problems/leetcode11_ContainerWithMostWater/readme.md) | Array | ![](img/medium.png) | ✅ |
+|13| [leetcode209_minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [minimum-size-subarray-sum](/problems/leetcode209_MinimumSizeSubarraySum/readme.md) | Array | ![](img/medium.png) | ✅ |
 
 
 
