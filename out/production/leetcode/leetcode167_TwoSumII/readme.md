@@ -20,7 +20,9 @@ Explanation: The sum of 2 and 7 is 9. Therefore index1 = 1, index2 = 2.
 
 # Solution1:
 
-方法1: 双指针夹逼法.
+方法1: 暴力, n^2
+方法2: 遍历2次, 第一遍构建hashmap, 第二遍查询.
+方法3: 遍历1次, 在遍历i的过程中, 不断的把之前的i放入hashmap, 然后求target. 代码如下:
 
 ```java
 
@@ -47,6 +49,5 @@ public class Solution {
     Logs.print(result);
   }
 }
-
 
 ```

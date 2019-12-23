@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode1_TwoSum/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode215_KthLargestElementInAnArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode215_KthLargestElementInAnArray/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode215_KthLargestElementInAnArray/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode215_KthLargestElementInAnArray/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode1_TwoSum/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode1_TwoSum/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="5" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="558">
+              <caret line="29" lean-forward="true" selection-start-line="5" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="418">
-                <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <first_editor relative-caret-position="352">
+                <caret line="16" column="191" lean-forward="true" selection-start-line="16" selection-start-column="191" selection-end-line="16" selection-end-column="191" />
               </first_editor>
               <second_editor />
             </state>
@@ -47,20 +44,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="440">
-                <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <first_editor relative-caret-position="262">
+                <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,6 +74,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/Solution.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/problems/leetcode26_RemoveDuplicatesFromSortedArray/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/problems/leetcode88_MergeSortedArray/Solution.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution.java" root0="FORCE_HIGHLIGHTING" />
@@ -117,9 +106,9 @@
         <option value="$PROJECT_DIR$/problems/leetcode215_KthLargestElementInAnArray/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode1_TwoSum/Readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java" />
       </list>
     </option>
   </component>
@@ -168,12 +157,6 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode167_TwoSumII" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -217,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode215_KthLargestElementInAnArray.Solution" />
       <module name="leetcode" />
@@ -244,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode80_RemoveDuplicatesfromSortedArrayII.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode167_TwoSumII.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode80_RemoveDuplicatesfromSortedArrayII.*" />
+          <option name="PATTERN" value="leetcode167_TwoSumII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,12 +289,12 @@
       <workItem from="1577008102722" duration="783000" />
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
-      <workItem from="1577066057891" duration="14226000" />
+      <workItem from="1577066057891" duration="15172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27379000" />
+    <option name="totallyTimeSpent" value="28325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-320" width="1920" height="1177" extended-state="6" />
@@ -492,40 +475,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution.java">
+    <entry file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="5" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="418">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="191" lean-forward="true" selection-start-line="16" selection-start-column="191" selection-end-line="16" selection-end-column="191" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="29" lean-forward="true" selection-start-line="5" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="440">
-            <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <first_editor relative-caret-position="262">
+            <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode167_TwoSumII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
