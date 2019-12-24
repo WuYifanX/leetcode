@@ -1,14 +1,22 @@
 package leetcode76_MinimumWindowSubstring;
 
-import java.util.HashMap;
-import java.util.Map;
+public class Solution2 {
 
-public class Solution {
-  private Map<Character, Integer> targetMap = new HashMap<>();
+  private int[] targetMap = new int[58];
+  private final int nullNumber = -126;
 
   public String minWindow(String s, String t) {
+
+    for (int i = 0; i < 54; i++) {
+      targetMap[i] = nullNumber;
+    }
+
     for (char c : t.toCharArray()) {
-      targetMap.put(c, targetMap.getOrDefault(c, 0) + 1);
+      if (targetMap[c - 'A'] == nullNumber) {
+        targetMap[c - 'A'] = 0;
+      }
+
+      targetMap[c - 'A'] += 1;
     }
 
     int lowCursor = 0, highCursor = -1;
@@ -23,8 +31,8 @@ public class Solution {
         highCursor++;
         char currentChar = s.charAt(highCursor);
 
-        if (targetMap.containsKey(currentChar)) {
-          targetMap.put(currentChar, targetMap.get(currentChar) - 1);
+        if (targetMap[currentChar - 'A'] != nullNumber) {
+          targetMap[currentChar - 'A'] -= 1;
           if (containTargetCharacters(t)) {
             isTIncluded = true;
           }
@@ -38,8 +46,8 @@ public class Solution {
           minCount = highCursor - minLowCursor + 1;
         }
         char currentChar = s.charAt(lowCursor);
-        if (targetMap.containsKey(currentChar)) {
-          targetMap.put(currentChar, targetMap.get(currentChar) + 1);
+        if (targetMap[currentChar - 'A'] != nullNumber) {
+          targetMap[currentChar - 'A'] += 1;
           if (!containTargetCharacters(t)) {
             isTIncluded = false;
           }
@@ -63,7 +71,7 @@ public class Solution {
 
   public boolean containTargetCharacters(String t) {
     for (char c : t.toCharArray()) {
-      if (targetMap.get(c) > 0) {
+      if (targetMap[c - 'A'] > 0) {
         return false;
       }
     }
@@ -71,7 +79,7 @@ public class Solution {
   }
 
   public static void main(String[] args) {
-        System.out.println(new Solution().minWindow("ADOBECODEBANC", "ABC"));
-//    System.out.println(new Solution().minWindow("a", "a"));
+    System.out.println(new Solution2().minWindow("cabwefgewcwaefgcf", "cae"));
+    //    System.out.println(new Solution().minWindow("a", "a"));
   }
 }
