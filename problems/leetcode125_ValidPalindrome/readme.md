@@ -66,7 +66,7 @@ public class Solution {
   }
 
   public static void main(String[] args) {
-    //            boolean result = new Solution().isPalindrome("A man, a plan, a canal: Panama");
+    Solution1
     boolean result = new Solution().isPalindrome("0P");
     System.out.println(result);
   }

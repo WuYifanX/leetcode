@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode438_FindAllAnagramsInAString/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode76_MinimumWindowSubstring/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode11_ContainerWithMostWater/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode11_ContainerWithMostWater/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode125_ValidPalindrome/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode125_ValidPalindrome/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode209_MinimumSizeSubarraySum/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode209_MinimumSizeSubarraySum/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/utils/Logs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/utils/Logs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode125_ValidPalindrome/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/utils/Logs.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/utils/Logs.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,14 +27,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode438_FindAllAnagramsInAString/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode242_ValidAnagram/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="462">
+                <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <first_editor relative-caret-position="250">
+                <caret line="21" column="169" selection-start-line="21" selection-start-column="169" selection-end-line="21" selection-end-column="169" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -74,7 +121,6 @@
         <option value="$PROJECT_DIR$/problems/leetcode80_RemoveDuplicatesfromSortedArrayII/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode80_RemoveDuplicatesfromSortedArrayII/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode75_SortColors     /leetcode80_RemoveDuplicatesfromSortedArrayII/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/utils/Logs.java" />
         <option value="$PROJECT_DIR$/problems/utils/Arrays.java" />
         <option value="$PROJECT_DIR$/problems/leetcode75_SortColors/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode75_SortColors/readme.md" />
@@ -95,6 +141,13 @@
         <option value="$PROJECT_DIR$/problems/leetcode11_ContainerWithMostWater/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode209_MinimumSizeSubarraySum/readme.md" />
+        <option value="$PROJECT_DIR$/problems/utils/Logs.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode76_MinimumWindowSubstring/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode438_FindAllAnagramsInAString/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution1.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution2.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode242_ValidAnagram/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -106,7 +159,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -133,13 +186,19 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode167_TwoSumII" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode242_ValidAnagram" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode209_MinimumSizeSubarraySum" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode283_RemoveZeroes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode438_FindAllAnagramsInAString" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -186,39 +245,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution2">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode209_MinimumSizeSubarraySum.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode209_MinimumSizeSubarraySum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode167_TwoSumII.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode167_TwoSumII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode125_ValidPalindrome.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode125_ValidPalindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,13 +285,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode242_ValidAnagram.Solution1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode242_ValidAnagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode242_ValidAnagram.Solution2" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode242_ValidAnagram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -275,15 +334,24 @@
       <workItem from="1577008102722" duration="783000" />
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
-      <workItem from="1577066057891" duration="30602000" />
+      <workItem from="1577066057891" duration="34571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43755000" />
+    <option name="totallyTimeSpent" value="47724000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22815885" />
@@ -293,11 +361,11 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37336814" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37336814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42428198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32898173" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.44255874" />
@@ -392,13 +460,6 @@
             <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/utils/Logs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -593,11 +654,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/utils/Logs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode76_MinimumWindowSubstring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode438_FindAllAnagramsInAString/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode283_RemoveZeroes/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode242_ValidAnagram/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode242_ValidAnagram/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="462">
+            <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <first_editor relative-caret-position="250">
+            <caret line="21" column="169" selection-start-line="21" selection-start-column="169" selection-end-line="21" selection-end-column="169" />
           </first_editor>
           <second_editor />
         </state>

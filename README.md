@@ -19,6 +19,7 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 |11| [leetcode345_reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [reverse-vowels-of-a-string](/problems/leetcode345_ReverseVowelsofAString/readme.md) | String | ![](img/easy.png) | ❌ |
 |12| [leetcode11_container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/) | [container-with-most-water](/problems/leetcode11_ContainerWithMostWater/readme.md) | Array | ![](img/medium.png) | ✅ |
 |13| [leetcode209_minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [minimum-size-subarray-sum](/problems/leetcode209_MinimumSizeSubarraySum/readme.md) | Array | ![](img/medium.png) | ✅ |
+|14| [leetcode242_valid-anagram](https://leetcode-cn.com/problems/valid-anagram/) | [valid-anagram](/problems/leetcode242_ValidAnagram/readme.md) | String | ![](img/easy.png) | ❌ |
 
 
 
