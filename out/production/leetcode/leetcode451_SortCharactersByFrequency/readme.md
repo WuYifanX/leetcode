@@ -42,15 +42,11 @@ Note that 'A' and 'a' are treated as two different characters.
 2. 对于String, Char, List, Array之间的互转需要更加熟悉.
 
 ```java
-
 package leetcode451_SortCharactersByFrequency;
 
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
@@ -70,16 +66,19 @@ public class Solution {
     if (s.length() == 0) {
       return "";
     }
-    Map<Character, Integer> freqMap = new HashMap<>();
+
+    int[] freqs = new int[128];
     for (char c : s.toCharArray()) {
-      freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
+      freqs[c]++;
     }
 
     Queue<TimesAndCharacter> charTimesQueue =
         new PriorityQueue(Comparator.comparingInt((TimesAndCharacter t) -> -1 * t.times));
 
-    for (Entry<Character, Integer> entry : freqMap.entrySet()) {
-      charTimesQueue.add(new TimesAndCharacter(entry.getKey(), entry.getValue()));
+    for (int i = 0; i < freqs.length; i++) {
+      if (freqs[i] != 0) {
+        charTimesQueue.add(new TimesAndCharacter((char) i, freqs[i]));
+      }
     }
 
     List<String> res = new ArrayList<>();
@@ -106,5 +105,6 @@ public class Solution {
     System.out.println(new Solution().frequencySort("Aabb"));
   }
 }
+
 
 ```

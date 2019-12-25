@@ -28,9 +28,10 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |20| [leetcode290_word-pattern](https://leetcode-cn.com/problems/word-pattern/) | [word-pattern](/problems/leetcode290_WordPattern/readme.md) | Search | ![](img/easy.png) | ❌ |
 |21| [leetcode205_isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/) | [isomorphic-strings](/problems/leetcode205_IsomorphicStrings/readme.md) | Search | ![](img/easy.png) | ❌ |
 |22| [leetcode451_sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | [sort-characters-by-frequency](/problems/leetcode451_SortCharactersByFrequency/readme.md) | Search | ![](img/medium.png) | ❌ |
-|23| [leetcode15_3sum](https://leetcode-cn.com/problems/3sum/) | [3sum](/problems/leetcode451_SortCharactersByFrequency/readme.md) | Search | ![](img/medium.png) | ❌ |
+|23| [leetcode15_3sum](https://leetcode-cn.com/problems/3sum/) | [3sum](/problems/leetcode15_3sum/readme.md) | Search | ![](img/medium.png) | ✅ |
+|24| [leetcode15_4sum](https://leetcode-cn.com/problems/4sum/) | [4sum](/problems/leetcode18_4Sum/readme.md) | Search | ![](img/medium.png) | ✅ |
 
-Search Tag: TODO: 15/18/16/454/49/447/149/219/217/220/
+Search Tag: TODO: 18/16/454/49/447/149/219/217/220/
 
 ### Leetcode Retag
 

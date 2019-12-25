@@ -2,26 +2,35 @@ package leetcode15_3sum;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
-// 这个solution的bug在于说
-// 需要最后从 List<List<Integer>>去重.
-// 但是这个答案超时了.
-public class Solution {
-
+// 继续超时
+class Solution2 {
   public List<List<Integer>> threeSum(int[] nums) {
-    Arrays.sort(nums);
-
+    Map<Integer, Integer> countMaps = new HashMap<>();
     List<List<Integer>> res = new ArrayList<>();
+    for (int num : nums) {
+      countMaps.put(num, countMaps.getOrDefault(num, 0) + 1);
+    }
+
     int target;
-    int searchResult;
     for (int i = 0; i < nums.length - 1; i++) {
       for (int j = i + 1; j < nums.length; j++) {
         target = 0 - (nums[i] + nums[j]);
-        searchResult = binarySearchInNums(target, nums, j + 1, nums.length - 1);
-        if (searchResult != -1) {
-          res.add(Arrays.asList(nums[i], nums[j], searchResult));
+        countMaps.put(nums[i], countMaps.get(nums[i]) - 1);
+        countMaps.put(nums[j], countMaps.get(nums[j]) - 1);
+        if (countMaps.containsKey(target) && countMaps.get(target) != 0) {
+          System.out.print(i);
+          System.out.print(j);
+          System.out.println();
+          int[] a= new int[]{nums[i], nums[j], target};
+          Arrays.sort(a);
+          res.add(Arrays.asList(a[0], a[1], a[2]));
         }
+        countMaps.put(nums[i], countMaps.get(nums[i]) + 1);
+        countMaps.put(nums[j], countMaps.get(nums[j]) + 1);
       }
     }
     return deleteDuplicateArray(res);
@@ -69,28 +78,8 @@ public class Solution {
     return true;
   }
 
-  // find target in [start, end];
-  private int binarySearchInNums(int target, int[] nums, int start, int end) {
-    if (start > end) {
-      return -1;
-    }
-    int middleIndex = (end - start + 1) / 2 + start;
-    int middleValue = nums[middleIndex];
-
-    if (target == middleValue) {
-      return middleValue;
-    }
-
-    if (middleValue > target) {
-      return binarySearchInNums(target, nums, start, middleIndex - 1);
-    } else {
-      return binarySearchInNums(target, nums, middleIndex + 1, end);
-    }
-  }
-
   public static void main(String[] args) {
     int[] a = new int[] {-1, 0, 1, 2, -1, -4};
-    new Solution().threeSum(a);
+    new Solution2().threeSum(a);
   }
 }
-
