@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +21,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="134">
-                <caret line="275" column="52" selection-start-line="275" selection-start-column="52" selection-end-line="275" selection-end-column="52" />
+              <first_editor relative-caret-position="267">
+                <caret line="28" column="143" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="384">
+                <caret line="72" selection-start-line="72" selection-end-line="72" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/283_Move Zeroes/Solution283.java" />
-        <option value="$PROJECT_DIR$/problems/283_Move_Zeroes/Solution283.java" />
         <option value="$PROJECT_DIR$/problems/283_Move_Zeroes/Solution.java" />
         <option value="$PROJECT_DIR$/problems/a/b/c/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode283_RemoveZeroes/Solution.java" />
@@ -115,7 +131,9 @@
         <option value="$PROJECT_DIR$/problems/leetcode202_HappyNumber/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md" />
       </list>
     </option>
   </component>
@@ -151,7 +169,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode290_WordPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode205_IsomorphicStrings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -203,26 +221,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode349_IntersectionofTwoArrays.Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode205_IsomorphicStrings.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode349_IntersectionofTwoArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode350_IntersectionofTwoArraysII.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode350_IntersectionofTwoArraysII.*" />
+          <option name="PATTERN" value="leetcode205_IsomorphicStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,6 +241,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode202_HappyNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode290_WordPattern.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode290_WordPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +311,12 @@
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
       <workItem from="1577066057891" duration="46589000" />
-      <workItem from="1577240720470" duration="12408000" />
+      <workItem from="1577240720470" duration="14989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72150000" />
+    <option name="totallyTimeSpent" value="74731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,14 +338,14 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37335834" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40712947" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37237978" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40690506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32898173" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.40443897" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.40443897" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32898173" />
@@ -385,6 +403,11 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>charDict[1] = &quot;2121&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>9^2</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -421,11 +444,6 @@
       </expression>
       <expression>
         <expression-string>isAnagrams(s, lowerCursor, higherCursor, p)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.length()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -813,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -828,16 +839,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#690#691#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -865,11 +866,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <folding>
+              <element signature="e#1008#1009#0" expanded="true" />
+              <element signature="e#1091#1092#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#1096#1097#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="134">
-            <caret line="275" column="52" selection-start-line="275" selection-start-column="52" selection-end-line="275" selection-end-column="52" />
+          <first_editor relative-caret-position="267">
+            <caret line="28" column="143" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" lean-forward="true" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="72" selection-start-line="72" selection-end-line="72" />
           </first_editor>
           <second_editor />
         </state>
