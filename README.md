@@ -2,9 +2,9 @@
 
 ### My LeetCode
 
-My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunterxmoon/)
+My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunterxmoon/)
 
-| No. |                                    LeetCode Link                                     |                            To My Solution                             |  Tag  |    Difficulty     |    Review Needed     |
+| No. |                                    Leetcode Link                                     |                            To My Solution                             |  Tag  |    Difficulty     |    Review Needed     |
 | :---: | :--------------------------------------------------------------------------: | :----------------------------------------------------------: | :---: | :---------------: |:---------------: |
 |1| [leetcode283_move-zeroes](https://leetcode-cn.com/problems/move-zeroes/)   | [MoveZeroes](/problems/leetcode283_RemoveZeroes/readme.md)  | Array | ![](img/easy.png) | ❌ |
 |2| [leetcode27_remove-element](https://leetcode-cn.com/problems/remove-element/) | [MoveElement](/problems/leetcode27_RemoveElement/readme.md) | Array | ![](img/easy.png) | ❌ |
@@ -27,7 +27,7 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 |19| [leetcode202_happy-number](https://leetcode-cn.com/problems/happy-number/) | [happy-number](/problems/leetcode202_HappyNumber/readme.md) | Search | ![](img/easy.png) | ✅ |
 |20| [leetcode290_word-pattern](https://leetcode-cn.com/problems/word-pattern/) | [word-pattern](/problems/leetcode290_WordPattern/readme.md) | Search | ![](img/easy.png) | ✅ |
 
-
+Search Tag: TODO: 290/205/451/15/18/16/454/49/447/149/219/217/220/
 
 ### Leetcode Retag
 
