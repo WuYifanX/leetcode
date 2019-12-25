@@ -25,6 +25,7 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 |17| [leetcode349_intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [intersection-of-two-arrays](/problems/leetcode349_IntersectionofTwoArrays/readme.md) | Array, Search | ![](img/easy.png) | ❌ |
 |18| [leetcode350_intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [intersection-of-two-arrays-ii](/problems/leetcode350_IntersectionofTwoArraysII/readme.md) | Array, Search | ![](img/easy.png) | ❌ |
 |19| [leetcode202_happy-number](https://leetcode-cn.com/problems/happy-number/) | [happy-number](/problems/leetcode202_HappyNumber/readme.md) | Search | ![](img/easy.png) | ✅ |
+|20| [leetcode290_word-pattern](https://leetcode-cn.com/problems/word-pattern/) | [word-pattern](/problems/leetcode290_WordPattern/readme.md) | Search | ![](img/easy.png) | ✅ |
 
 
 
@@ -279,3 +280,6 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 
     - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
     - [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+
+

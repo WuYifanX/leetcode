@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yfwu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/Solution2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/Solution3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode349_IntersectionofTwoArrays/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode349_IntersectionofTwoArrays/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode350_IntersectionofTwoArraysII/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode350_IntersectionofTwoArraysII/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode202_HappyNumber/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode349_IntersectionofTwoArrays/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode349_IntersectionofTwoArrays/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode350_IntersectionofTwoArraysII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode350_IntersectionofTwoArraysII/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -36,50 +21,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="572">
-                <caret line="26" column="150" selection-start-line="26" selection-start-column="150" selection-end-line="26" selection-end-column="150" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-              <folding>
-                <element signature="e#568#569#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-                <folding>
-                  <element signature="e#579#580#0" expanded="true" />
-                  <element signature="e#636#637#0" expanded="true" />
-                </folding>
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="8116">
+                <caret line="790" selection-start-line="790" selection-end-line="790" />
               </first_editor>
               <second_editor />
             </state>
@@ -124,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/283. Move Zeroes/solution.java" />
-        <option value="$PROJECT_DIR$/problems/283_Move Zeroes/solution.java" />
         <option value="$PROJECT_DIR$/problems/283_Move Zeroes/Solution283.java" />
         <option value="$PROJECT_DIR$/problems/283_Move_Zeroes/Solution283.java" />
         <option value="$PROJECT_DIR$/problems/283_Move_Zeroes/Solution.java" />
@@ -174,6 +116,8 @@
         <option value="$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution3.java" />
         <option value="$PROJECT_DIR$/problems/leetcode202_HappyNumber/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -185,11 +129,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1440" />
-    <option name="y" value="-320" />
+    <option name="y" value="-343" />
     <option name="width" value="1920" />
-    <option name="height" value="1177" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -210,12 +154,6 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode202_HappyNumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -230,7 +168,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems/leetcode350_IntersectionofTwoArraysII" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/problems" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -354,12 +292,12 @@
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
       <workItem from="1577066057891" duration="46589000" />
-      <workItem from="1577240720470" duration="10101000" />
+      <workItem from="1577240720470" duration="10456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69843000" />
+    <option name="totallyTimeSpent" value="70198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,7 +309,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-320" width="1920" height="1177" extended-state="6" />
+    <frame x="1440" y="-343" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.29758713" />
@@ -388,7 +326,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32898173" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30769232" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29522952" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32898173" />
@@ -864,13 +802,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution2.java">
+    <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -885,12 +830,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution3.java">
+    <entry file="file://$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode202_HappyNumber/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="504">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           <folding>
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -911,9 +866,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="572">
-            <caret line="26" column="150" selection-start-line="26" selection-start-column="150" selection-end-line="26" selection-end-column="150" />
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="8116">
+            <caret line="790" selection-start-line="790" selection-end-line="790" />
           </first_editor>
           <second_editor />
         </state>
