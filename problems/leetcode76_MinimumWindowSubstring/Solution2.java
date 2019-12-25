@@ -2,12 +2,12 @@ package leetcode76_MinimumWindowSubstring;
 
 public class Solution2 {
 
-  private int[] targetMap = new int[58];
+  private int[] targetMap = new int[64];
   private final int nullNumber = -126;
 
   public String minWindow(String s, String t) {
 
-    for (int i = 0; i < 54; i++) {
+    for (int i = 0; i < 64; i++) {
       targetMap[i] = nullNumber;
     }
 
@@ -70,8 +70,8 @@ public class Solution2 {
   }
 
   public boolean containTargetCharacters(String t) {
-    for (char c : t.toCharArray()) {
-      if (targetMap[c - 'A'] > 0) {
+    for( int i =0; i< 64; i++){
+      if(targetMap[i] > 0){
         return false;
       }
     }

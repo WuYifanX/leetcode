@@ -2,6 +2,7 @@ package leetcode76_MinimumWindowSubstring;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Map.Entry;
 
 public class Solution {
   private Map<Character, Integer> targetMap = new HashMap<>();
@@ -62,8 +63,8 @@ public class Solution {
   }
 
   public boolean containTargetCharacters(String t) {
-    for (char c : t.toCharArray()) {
-      if (targetMap.get(c) > 0) {
+    for(Entry<Character, Integer> entry: targetMap.entrySet()){
+      if(entry.getValue() >0){
         return false;
       }
     }
