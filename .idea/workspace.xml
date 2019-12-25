@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode202_HappyNumber/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,24 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="267">
-                <caret line="28" column="143" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
+              <first_editor relative-caret-position="186">
+                <caret line="29" column="229" selection-start-line="29" selection-start-column="229" selection-end-line="29" selection-end-column="229" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
-                <caret line="72" selection-start-line="72" selection-end-line="72" />
+              <first_editor relative-caret-position="332">
+                <caret line="37" selection-start-line="37" selection-end-line="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/283_Move_Zeroes/Solution.java" />
         <option value="$PROJECT_DIR$/problems/a/b/c/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode283_RemoveZeroes/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode26_RemoveDuplicatesFromSortedArray/readme.md" />
@@ -132,8 +126,9 @@
         <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -164,12 +159,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode205_IsomorphicStrings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -311,12 +300,12 @@
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
       <workItem from="1577066057891" duration="46589000" />
-      <workItem from="1577240720470" duration="14989000" />
+      <workItem from="1577240720470" duration="15130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74731000" />
+    <option name="totallyTimeSpent" value="74872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,14 +327,14 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37237978" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37237978" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40690506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32898173" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.40443897" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.40443897" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32898173" />
@@ -450,23 +439,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode283_RemoveZeroes/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode26_RemoveDuplicatesFromSortedArray/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="389">
-            <caret line="54" column="3" lean-forward="true" selection-start-line="29" selection-end-line="54" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode80_RemoveDuplicatesfromSortedArrayII/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -890,16 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="267">
-            <caret line="28" column="143" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -912,6 +874,33 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="384">
             <caret line="72" selection-start-line="72" selection-end-line="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="332">
+            <caret line="37" selection-start-line="37" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="186">
+            <caret line="29" column="229" selection-start-line="29" selection-start-column="229" selection-end-line="29" selection-end-column="229" />
           </first_editor>
           <second_editor />
         </state>
