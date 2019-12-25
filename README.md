@@ -22,6 +22,9 @@ My LeetCode homepage : [hunterxmoon - LeetCode](https://leetcode-cn.com/u/hunter
 |14| [leetcode242_valid-anagram](https://leetcode-cn.com/problems/valid-anagram/) | [valid-anagram](/problems/leetcode242_ValidAnagram/readme.md) | String | ![](img/easy.png) | ❌ |
 |15| [leetcode438_find-all-anagrams-in-a-string](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [find-all-anagrams-in-a-string](/problems/leetcode438_FindAllAnagramsInAString/readme.md) | String | ![](img/medium.png) | ❌ |
 |16| [leetcode76_minimum-window-substring](https://leetcode-cn.com/problems/minimum-window-substring/) | [minimum-window-substring](/problems/leetcode76_MinimumWindowSubstring/readme.md) | String | ![](img/hard.png) | ✅ |
+|17| [leetcode349_intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [intersection-of-two-arrays](/problems/leetcode349_IntersectionofTwoArrays/readme.md) | Array, Search | ![](img/easy.png) | ❌ |
+|18| [leetcode350_intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [intersection-of-two-arrays-ii](/problems/leetcode350_IntersectionofTwoArraysII/readme.md) | Array, Search | ![](img/easy.png) | ❌ |
+|19| [leetcode202_happy-number](https://leetcode-cn.com/problems/happy-number/) | [happy-number](/problems/leetcode202_HappyNumber/readme.md) | Search | ![](img/easy.png) | ✅ |
 
 
 
