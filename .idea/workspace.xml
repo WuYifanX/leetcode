@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode16_3SumClosest/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode16_3SumClosest/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode454_4SumII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode454_4SumII/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode18_4Sum/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode18_4Sum/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,14 +16,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode454_4SumII/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="254">
+                <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -123,8 +116,8 @@
         <option value="$PROJECT_DIR$/problems/leetcode16_3SumClosest/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode16_3SumClosest/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode454_4SumII/readme.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/problems/leetcode454_4SumII/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -157,12 +150,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode454_4SumII" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,12 +288,12 @@
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
       <workItem from="1577066057891" duration="46589000" />
-      <workItem from="1577240720470" duration="38258000" />
+      <workItem from="1577240720470" duration="38324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98000000" />
+    <option name="totallyTimeSpent" value="98066000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,21 +308,21 @@
     <frame x="1440" y="-343" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37319034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37319034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41764176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41764176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45544556" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32799014" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.40443897" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4041404" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32799014" />
@@ -921,16 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="342">
-            <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode454_4SumII/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -949,6 +926,16 @@
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#133#134#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="254">
+            <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
