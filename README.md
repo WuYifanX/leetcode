@@ -31,9 +31,12 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |23| [leetcode15_3sum](https://leetcode-cn.com/problems/3sum/) | [3sum](/problems/leetcode15_3sum/readme.md) | Search | ![](img/medium.png) | ✅ |
 |24| [leetcode18_4sum](https://leetcode-cn.com/problems/4sum/) | [4sum](/problems/leetcode18_4Sum/readme.md) | Search | ![](img/medium.png) | ✅ |
 |25| [leetcode16_3SumClosest](https://leetcode-cn.com/problems/3sum-closest/) | [3SumClosest](/problems/leetcode16_3SumClosest/readme.md) | Search | ![](img/medium.png) | ✅ |
-|25| [leetcode454_4sum-ii](https://leetcode-cn.com/problems/4sum-ii/) | [4sum-ii](/problems/leetcode454_4SumII/readme.md) | Search | ![](img/medium.png) | ✅ |
+|26| [leetcode454_4sum-ii](https://leetcode-cn.com/problems/4sum-ii/) | [4sum-ii](/problems/leetcode454_4SumII/readme.md) | Search | ![](img/medium.png) | ❌ |
+|26| [leetcode49_group-anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [group-anagrams](/problems/leetcode49_GroupAnagrams/readme.md) | Search, String | ![](img/medium.png) | ✅ |
+// |27| [leetcode447_number-of-boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [number-of-boomerangs](/problems/leetcode447_NumberofBoomerangs/readme.md) | Search, String | ![](img/medium.png) | ✅ |
+|27| [leetcode447_number-of-boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [number-of-boomerangs](/problems/leetcode447_NumberofBoomerangs/readme.md) | Search, String | ![](img/medium.png) | ✅ |
 
-Search Tag: TODO: 49/447/149/219/217/220/
+Search Tag: TODO: 149/219/217/220/
 
 ### Leetcode Retag
 
