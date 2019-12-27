@@ -40,7 +40,7 @@ public class Solution {
   }
 
   public static void main(String[] args) {
-  //            boolean result = new Solution1().isPalindrome("A man, a plan, a canal: Panama");
+  //            boolean result = new Solution2().isPalindrome("A man, a plan, a canal: Panama");
     boolean result = new Solution().isPalindrome("0P");
     System.out.println(result);
   }

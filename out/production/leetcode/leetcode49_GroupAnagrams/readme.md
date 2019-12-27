@@ -18,3 +18,15 @@ The order of your output does not matter.
 
 
 # Solution
+
+https://leetcode-cn.com/problems/group-anagrams/solution/
+
+方法
+1. 建立一个排序之后的string为key的map
+2.
+
+```java
+
+
+
+```
