@@ -34,7 +34,10 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |26| [leetcode454_4sum-ii](https://leetcode-cn.com/problems/4sum-ii/) | [4sum-ii](/problems/leetcode454_4SumII/readme.md) | Search | ![](img/medium.png) | ❌ |
 |26| [leetcode49_group-anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [group-anagrams](/problems/leetcode49_GroupAnagrams/readme.md) | Search, String | ![](img/medium.png) | ✅ |
 |27| [leetcode447_number-of-boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [number-of-boomerangs](/problems/leetcode447_NumberofBoomerangs/readme.md) | Search, geometric | ![](img/easy.png) | ✅ |
-|28| [leetcode149_max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line/) | [max-points-on-a-line](/problems/leetcode149_MaxPointsOnALine/readme.md) | Search, geometric | ![](img/hard.png) | ✅ |
+// |28| [leetcode149_max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line/) | [max-points-on-a-line](/problems/leetcode149_MaxPointsOnALine/readme.md) | Search, geometric | ![](img/hard.png) | ✅ |
+|29| [leetcode217_contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [contains-duplicate](/problems/leetcode217_ContainsDuplicate/readme.md) | Search | ![](img/easy.png) | ❌ |
+|29| [leetcode219_contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [contains-duplicate-ii](/problems/leetcode219_ContainsDuplicateII/readme.md) | Search | ![](img/easy.png) | ❌ |
+|30| [leetcode220_contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [contains-duplicate-iii](/problems/leetcode220_ContainsDuplicateIII/readme.md) | Search | ![](img/medium.png) | ❌ |
 
 Search Tag: TODO: 219/217/220/
 

@@ -26,3 +26,57 @@ The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]]
 5. 如果开始遍历b的时候,我们还有没有必要去从a去计算ba的距离. 其实是有必要的, 因为从a开始的时候是没有包含这种情况: ba, bc. 也就是[b, a, c] and [b, c, a].
 6. 因为计算距离这个事情会大量重复, 其实是可以考虑把计算值存储起来, 那么下次的话会更快.
 
+
+```java
+
+package leetcode447_NumberofBoomerangs;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Solution {
+  private double[][] distanceMemo;
+
+  public int numberOfBoomerangs(int[][] points) {
+    distanceMemo = new double[points.length][points.length];
+    Map<Double, Integer> maps = new HashMap<>();
+    double distance;
+    int result = 0;
+    int currentTimes;
+    for (int i = 0; i < points.length; ++i) {
+      for (int j = 0; j < points.length; j++) {
+        if (i == j) continue;
+        distance = calcuateDistanceBetweenTwoPoint(points, i, j);
+        if (maps.containsKey(distance)) {
+          currentTimes = maps.get(distance);
+          result += 2 * currentTimes;
+          maps.put(distance, currentTimes + 1);
+        } else {
+          maps.put(distance, 1);
+        }
+      }
+      maps.clear();
+    }
+    return result;
+  }
+
+  private double calcuateDistanceBetweenTwoPoint(int[][] points, int i, int j) {
+    if (distanceMemo[i][j] != 0) {
+      return distanceMemo[i][j];
+    }
+
+    double distance =
+        Math.pow(points[i][1] - points[j][1], 2) + Math.pow(points[i][0] - points[j][0], 2);
+    distanceMemo[i][j] = distance;
+    distanceMemo[j][i] = distance;
+    return distance;
+  }
+
+  public static void main(String[] args) {
+    int[][] input = new int[][] {{0, 0}, {1, 0}, {2, 0}};
+
+    System.out.println(new Solution().numberOfBoomerangs(input));
+  }
+}
+
+```
