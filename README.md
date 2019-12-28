@@ -42,12 +42,12 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |32| [leetcode92_reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [reverse-linked-list-ii](/problems/leetcode92_ReverseLinkedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
 |33| [leetcode83_remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list](/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
 |34| [leetcode86_Partition List](https://leetcode-cn.com/problems/partition-list/) | [partition-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
-|34| [leetcode328_odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/) | [odd-even-linked-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|35| [leetcode328_odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/) | [odd-even-linked-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|36| [leetcode2_add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [odd-even-linked-list](/problems/leetcode2_AddTwoNumbers/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
 
 ### LinkList
 
-328 / 2 / 445 / 203 / 82 / 21 
-
+2 / 445 / 203 / 82 / 21 
 
 
 ### Leetcode Retag
