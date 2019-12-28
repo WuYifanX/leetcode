@@ -39,10 +39,13 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |29| [leetcode219_contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [contains-duplicate-ii](/problems/leetcode219_ContainsDuplicateII/readme.md) | Search | ![](img/easy.png) | ❌ |
 |30| [leetcode220_contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [contains-duplicate-iii](/problems/leetcode220_ContainsDuplicateIII/readme.md) | Search | ![](img/medium.png) | ✅ |
 |31| [leetcode226_reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverse-linked-list](/problems/leetcode206_ReverseLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ✅ |
+|32| [leetcode92_reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [reverse-linked-list-ii](/problems/leetcode92_ReverseLinkedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
+|33| [leetcode83_remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list](/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|34| [leetcode86_Partition List](https://leetcode-cn.com/problems/partition-list/) | [partition-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
 
 ### LinkList
 
-92 / 83 / 86 / 328 / 2 / 445 / 203 / 82 / 21 
+86 / 328 / 2 / 445 / 203 / 82 / 21 
 
 
 
