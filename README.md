@@ -38,7 +38,7 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |29| [leetcode217_contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [contains-duplicate](/problems/leetcode217_ContainsDuplicate/readme.md) | Search | ![](img/easy.png) | ❌ |
 |29| [leetcode219_contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [contains-duplicate-ii](/problems/leetcode219_ContainsDuplicateII/readme.md) | Search | ![](img/easy.png) | ❌ |
 |30| [leetcode220_contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [contains-duplicate-iii](/problems/leetcode220_ContainsDuplicateIII/readme.md) | Search | ![](img/medium.png) | ✅ |
-|31| [leetcode226_reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverse-linked-list](/problems/leetcode206_ReverseLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|31| [leetcode226_reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverse-linked-list](/problems/leetcode206_ReverseLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ✅ |
 
 ### LinkList
 
