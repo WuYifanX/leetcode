@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode2_AddTwoNumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode2_AddTwoNumbers/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode82_RemoveDuplicatesfromSortedListII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode328_OddEvenLinkedList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode328_OddEvenLinkedList/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/leetcode328_OddEvenLinkedList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode328_OddEvenLinkedList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode2_AddTwoNumbers/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode2_AddTwoNumbers/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,29 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="245">
-                <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+              <first_editor relative-caret-position="332">
+                <caret line="48" column="265" selection-start-line="48" selection-start-column="265" selection-end-line="48" selection-end-column="265" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode82_RemoveDuplicatesfromSortedListII/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="51" selection-start-column="8" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="308">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,6 +83,11 @@
       <find>current = next</find>
       <find>dummy.next</find>
       <find>resultCursor</find>
+      <find>addResult</find>
+      <find>stack1</find>
+      <find>current</find>
+      <find>203</find>
+      <find>82</find>
     </findStrings>
     <replaceStrings>
       <replace>'A'</replace>
@@ -83,12 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/leetcode202_HappyNumber/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode290_WordPattern/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode15_3sum/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode15_3sum/Solution2.java" />
@@ -133,6 +156,12 @@
         <option value="$PROJECT_DIR$/problems/leetcode328_OddEvenLinkedList/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode2_AddTwoNumbers/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode2_AddTwoNumbers/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/Solution2.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -169,13 +198,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode2_AddTwoNumbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode86_PartitionList" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode445_AddTwoNumbersii" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,11 +223,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode445_AddTwoNumbersii" />
       <recent name="leetcode206_ReverseLinkedList" />
       <recent name="leetcode49_GroupAnagrams" />
       <recent name="leetcode15_3sum" />
       <recent name="leetcode202_HappyNumber" />
-      <recent name="leetcode76_MinimumWindowSubstring" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/problems" />
@@ -226,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode86_PartitionList.Solution" />
       <module name="leetcode" />
@@ -253,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode92_ReverseLinkedListII.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode2_AddTwoNumbers.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode92_ReverseLinkedListII.*" />
+          <option name="PATTERN" value="leetcode2_AddTwoNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode2_AddTwoNumbers.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode445_AddTwoNumbersii.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode2_AddTwoNumbers.*" />
+          <option name="PATTERN" value="leetcode445_AddTwoNumbersii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -316,12 +339,12 @@
       <workItem from="1577010516853" duration="25000" />
       <workItem from="1577010544764" duration="12345000" />
       <workItem from="1577066057891" duration="46589000" />
-      <workItem from="1577240720470" duration="78021000" />
+      <workItem from="1577240720470" duration="81797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137763000" />
+    <option name="totallyTimeSpent" value="141539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,7 +359,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49723756" visible="true" weight="0.37184116" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49723756" visible="true" weight="0.19205776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -470,70 +493,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode205_IsomorphicStrings/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
-            <caret line="72" selection-start-line="72" selection-end-line="72" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/medium.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="147" column="57" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="57" />
-          <folding>
-            <element signature="e#4308#4309#0" expanded="true" />
-            <element signature="e#4360#4361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode451_SortCharactersByFrequency/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="287">
-            <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode15_3sum/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="83" column="3" lean-forward="true" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode15_3sum/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode15_3sum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -812,21 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode206_ReverseLinkedList/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="199">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            <folding>
-              <element signature="imports" expanded="true" />
-              <element signature="imports" expanded="true" />
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode92_ReverseLinkedListII/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -872,16 +816,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="462">
-            <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -956,21 +890,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode206_ReverseLinkedList/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode2_AddTwoNumbers/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="445">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="57" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="317">
+            <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode445_AddTwoNumbersii/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret column="35" selection-start-column="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode203_RemoveLinkedListElements/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode82_RemoveDuplicatesfromSortedListII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="245">
-            <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <first_editor relative-caret-position="332">
+            <caret line="48" column="265" selection-start-line="48" selection-start-column="265" selection-end-line="48" selection-end-column="265" />
           </first_editor>
           <second_editor />
         </state>

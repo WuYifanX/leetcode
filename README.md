@@ -43,11 +43,14 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |33| [leetcode83_remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list](/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
 |34| [leetcode86_Partition List](https://leetcode-cn.com/problems/partition-list/) | [partition-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
 |35| [leetcode328_odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/) | [odd-even-linked-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
-|36| [leetcode2_add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [odd-even-linked-list](/problems/leetcode2_AddTwoNumbers/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|36| [leetcode2_add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [add-two-numbers](/problems/leetcode2_AddTwoNumbers/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|37| [leetcode445_add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [add-two-numbers-ii](/problems/leetcode445_AddTwoNumbersii/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|38| [leetcode203_remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [remove-linked-list-elements](/problems/leetcode203_RemoveLinkedListElements/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|39| [leetcode82_remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [remove-duplicates-from-sorted-list-ii](/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
 
 ### LinkList
 
-2 / 445 / 203 / 82 / 21 
+/ 82 / 21 
 
 
 ### Leetcode Retag
