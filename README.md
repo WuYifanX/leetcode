@@ -47,7 +47,7 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |37| [leetcode445_add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [add-two-numbers-ii](/problems/leetcode445_AddTwoNumbersii/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
 |38| [leetcode203_remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [remove-linked-list-elements](/problems/leetcode203_RemoveLinkedListElements/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
 |39| [leetcode82_remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [remove-duplicates-from-sorted-list-ii](/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
-|40| [leetcode21_merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [merge-two-sorted-lists](/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
+|40| [leetcode21_merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [merge-two-sorted-lists](/problems/leetcode21_MergeTwoSortedLists/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
 
 ### LinkList
 
