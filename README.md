@@ -32,26 +32,29 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |24| [leetcode18_4sum](https://leetcode-cn.com/problems/4sum/) | [4sum](/problems/leetcode18_4Sum/readme.md) | Search | ![](img/medium.png) | ✅ |
 |25| [leetcode16_3SumClosest](https://leetcode-cn.com/problems/3sum-closest/) | [3SumClosest](/problems/leetcode16_3SumClosest/readme.md) | Search | ![](img/medium.png) | ✅ |
 |26| [leetcode454_4sum-ii](https://leetcode-cn.com/problems/4sum-ii/) | [4sum-ii](/problems/leetcode454_4SumII/readme.md) | Search | ![](img/medium.png) | ❌ |
-|26| [leetcode49_group-anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [group-anagrams](/problems/leetcode49_GroupAnagrams/readme.md) | Search, String | ![](img/medium.png) | ✅ |
-|27| [leetcode447_number-of-boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [number-of-boomerangs](/problems/leetcode447_NumberofBoomerangs/readme.md) | Search, geometric | ![](img/easy.png) | ✅ |
-|28| [leetcode149_max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line/) | [max-points-on-a-line](/problems/leetcode149_MaxPointsOnALine/readme.md) | Search, geometric | ![](img/hard.png) | ✅ |
-|29| [leetcode217_contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [contains-duplicate](/problems/leetcode217_ContainsDuplicate/readme.md) | Search | ![](img/easy.png) | ❌ |
-|29| [leetcode219_contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [contains-duplicate-ii](/problems/leetcode219_ContainsDuplicateII/readme.md) | Search | ![](img/easy.png) | ❌ |
-|30| [leetcode220_contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [contains-duplicate-iii](/problems/leetcode220_ContainsDuplicateIII/readme.md) | Search | ![](img/medium.png) | ✅ |
-|31| [leetcode226_reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverse-linked-list](/problems/leetcode206_ReverseLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ✅ |
-|32| [leetcode92_reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [reverse-linked-list-ii](/problems/leetcode92_ReverseLinkedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
-|33| [leetcode83_remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list](/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
-|34| [leetcode86_Partition List](https://leetcode-cn.com/problems/partition-list/) | [partition-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
-|35| [leetcode328_odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/) | [odd-even-linked-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
-|36| [leetcode2_add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [add-two-numbers](/problems/leetcode2_AddTwoNumbers/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
-|37| [leetcode445_add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [add-two-numbers-ii](/problems/leetcode445_AddTwoNumbersii/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
-|38| [leetcode203_remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [remove-linked-list-elements](/problems/leetcode203_RemoveLinkedListElements/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
-|39| [leetcode82_remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [remove-duplicates-from-sorted-list-ii](/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
-|40| [leetcode21_merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [merge-two-sorted-lists](/problems/leetcode21_MergeTwoSortedLists/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|27| [leetcode49_group-anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [group-anagrams](/problems/leetcode49_GroupAnagrams/readme.md) | Search, String | ![](img/medium.png) | ✅ |
+|28| [leetcode447_number-of-boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs/) | [number-of-boomerangs](/problems/leetcode447_NumberofBoomerangs/readme.md) | Search, geometric | ![](img/easy.png) | ✅ |
+|29| [leetcode149_max-points-on-a-line](https://leetcode-cn.com/problems/max-points-on-a-line/) | [max-points-on-a-line](/problems/leetcode149_MaxPointsOnALine/readme.md) | Search, geometric | ![](img/hard.png) | ✅ |
+|30| [leetcode217_contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/) | [contains-duplicate](/problems/leetcode217_ContainsDuplicate/readme.md) | Search | ![](img/easy.png) | ❌ |
+|31| [leetcode219_contains-duplicate-ii](https://leetcode-cn.com/problems/contains-duplicate-ii/) | [contains-duplicate-ii](/problems/leetcode219_ContainsDuplicateII/readme.md) | Search | ![](img/easy.png) | ❌ |
+|32| [leetcode220_contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [contains-duplicate-iii](/problems/leetcode220_ContainsDuplicateIII/readme.md) | Search | ![](img/medium.png) | ✅ |
+|33| [leetcode226_reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverse-linked-list](/problems/leetcode206_ReverseLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ✅ |
+|34| [leetcode92_reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [reverse-linked-list-ii](/problems/leetcode92_ReverseLinkedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
+|35| [leetcode83_remove-duplicates-from-sorted-list](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [remove-duplicates-from-sorted-list](/problems/leetcode83_RemoveDuplicatesFromSortedList/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|36| [leetcode86_Partition List](https://leetcode-cn.com/problems/partition-list/) | [partition-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|37| [leetcode328_odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/) | [odd-even-linked-list](/problems/leetcode86_PartitionList/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|38| [leetcode2_add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/) | [add-two-numbers](/problems/leetcode2_AddTwoNumbers/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|39| [leetcode445_add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [add-two-numbers-ii](/problems/leetcode445_AddTwoNumbersii/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|40| [leetcode203_remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [remove-linked-list-elements](/problems/leetcode203_RemoveLinkedListElements/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|41| [leetcode82_remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [remove-duplicates-from-sorted-list-ii](/problems/leetcode82_RemoveDuplicatesfromSortedListII/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
+|42| [leetcode21_merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [merge-two-sorted-lists](/problems/leetcode21_MergeTwoSortedLists/readme.md) | LinkedList | ![](img/easy.png) | ❌ |
+|43| [leetcode24_swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swap-nodes-in-pairs](/problems/leetcode24_SwapNodesinPairs/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
+|44| [leetcode25_reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [reverse-nodes-in-k-group](/problems/leetcode24_SwapNodesinPairs/readme.md) | LinkedList | ![](img/hard.png) | ✅ |
+|45| [leetcode147_insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/) | [insertion-sort-list](/problems/leetcode147_InsertionSortList/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
 
 ### LinkList
 
-
+148/ 237/ 19/  61/ 143/ 234
 
 ### Leetcode Retag
 
