@@ -51,10 +51,11 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |43| [leetcode24_swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [swap-nodes-in-pairs](/problems/leetcode24_SwapNodesinPairs/readme.md) | LinkedList | ![](img/medium.png) | ❌ |
 |44| [leetcode25_reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [reverse-nodes-in-k-group](/problems/leetcode24_SwapNodesinPairs/readme.md) | LinkedList | ![](img/hard.png) | ✅ |
 |45| [leetcode147_insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/) | [insertion-sort-list](/problems/leetcode147_InsertionSortList/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
+|46| [leetcode148_sort-list](https://leetcode-cn.com/problems/sort-list/) | [sort-list](/problems/leetcode148_SortList/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
 
 ### LinkList
 
-148/ 237/ 19/  61/ 143/ 234
+237/ 19/  61/ 143/ 234
 
 ### Leetcode Retag
 
