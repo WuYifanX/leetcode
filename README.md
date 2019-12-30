@@ -1,6 +1,6 @@
 <p align="center"><img width="300" src="img/leetcode.png"></p>
 
-### My LeetCode
+### My Leetcode
 
 My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunterxmoon/)
 
@@ -58,8 +58,12 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |50| [leetcode143_reorder-list](https://leetcode-cn.com/problems/reorder-list/) | [reorder-list](/problems/leetcode143_ReorderList/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
 |51| [leetcode234_palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/) | [palindrome-linked-list](/problems/leetcode234_PalindromeLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ✅ |
 |52| [leetcode20_valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [valid-parentheses](/problems/leetcode20_ValidParentheses/readme.md) | Stack | ![](img/easy.png) | ❌ |
+|53| [leetcode150_evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [evaluate-reverse-polish-notation](/problems/leetcode150_EvaluateReversePolishNotation/readme.md) | Stack | ![](img/medium.png) | ❌ |
+|54| [leetcode71_simplify-path](https://leetcode-cn.com/problems/simplify-path/) | [simplify-path](/problems/leetcode71_SimplifyPath/readme.md) | Stack | ![](img/medium.png) | ❌ |
 
-### LinkList
+### stack queue priorityQueue
+
+144/ 94/ 145 / 341 /
 
 
 
