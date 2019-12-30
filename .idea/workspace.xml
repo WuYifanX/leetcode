@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/problems/leetcode20_ValidParentheses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode20_ValidParentheses/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="258">
-                <caret line="55" column="244" selection-start-line="55" selection-start-column="244" selection-end-line="55" selection-end-column="244" />
+              <first_editor relative-caret-position="212">
+                <caret line="59" column="153" selection-start-line="59" selection-start-column="153" selection-end-line="59" selection-end-column="153" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,6 +39,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="240">
                 <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode20_ValidParentheses/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="65" selection-start-line="65" selection-end-line="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -97,8 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/leetcode220_ContainsDuplicateIII/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode220_ContainsDuplicateIII/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode149_MaxPointsOnALine/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode149_MaxPointsOnALine/readme.md" />
         <option value="$PROJECT_DIR$/problems/utils/ListNode.java" />
@@ -147,7 +160,9 @@
         <option value="$PROJECT_DIR$/problems/leetcode234_PalindromeLinkedList/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode143_ReorderList/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode143_ReorderList/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode20_ValidParentheses/Solution.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode20_ValidParentheses/readme.md" />
       </list>
     </option>
   </component>
@@ -181,12 +196,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode143_ReorderList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -331,12 +340,12 @@
       <workItem from="1577010544764" duration="12345000" />
       <workItem from="1577066057891" duration="46589000" />
       <workItem from="1577240720470" duration="118179000" />
-      <workItem from="1577695879912" duration="4014000" />
+      <workItem from="1577695879912" duration="4222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181935000" />
+    <option name="totallyTimeSpent" value="182143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,7 +360,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" weight="0.20216607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49723756" visible="true" weight="0.20216607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -503,23 +512,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode206_ReverseLinkedList/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="16" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode92_ReverseLinkedListII/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode206_ReverseLinkedList/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
@@ -933,16 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/Nodes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode143_ReorderList/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -963,11 +945,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/Nodes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="258">
-            <caret line="55" column="244" selection-start-line="55" selection-start-column="244" selection-end-line="55" selection-end-column="244" />
+          <first_editor relative-caret-position="212">
+            <caret line="59" column="153" selection-start-line="59" selection-start-column="153" selection-end-line="59" selection-end-column="153" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode20_ValidParentheses/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="22" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode20_ValidParentheses/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
           </first_editor>
           <second_editor />
         </state>

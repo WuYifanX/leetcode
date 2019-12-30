@@ -57,6 +57,7 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |49| [leetcode61_rotate-list](https://leetcode-cn.com/problems/rotate-list/) | [rotate-list](/problems/leetcode19_RemoveNthNodeFromEndOfList/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
 |50| [leetcode143_reorder-list](https://leetcode-cn.com/problems/reorder-list/) | [reorder-list](/problems/leetcode143_ReorderList/readme.md) | LinkedList | ![](img/medium.png) | ✅ |
 |51| [leetcode234_palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list/) | [palindrome-linked-list](/problems/leetcode234_PalindromeLinkedList/readme.md) | LinkedList | ![](img/easy.png) | ✅ |
+|52| [leetcode20_valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [valid-parentheses](/problems/leetcode20_ValidParentheses/readme.md) | Stack | ![](img/easy.png) | ❌ |
 
 ### LinkList
 
