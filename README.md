@@ -60,10 +60,13 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |52| [leetcode20_valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [valid-parentheses](/problems/leetcode20_ValidParentheses/readme.md) | Stack | ![](img/easy.png) | ❌ |
 |53| [leetcode150_evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [evaluate-reverse-polish-notation](/problems/leetcode150_EvaluateReversePolishNotation/readme.md) | Stack | ![](img/medium.png) | ❌ |
 |54| [leetcode71_simplify-path](https://leetcode-cn.com/problems/simplify-path/) | [simplify-path](/problems/leetcode71_SimplifyPath/readme.md) | Stack | ![](img/medium.png) | ❌ |
+|55| [leetcode144_binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [binary-tree-preorder-traversal](/problems/leetcode144_BinaryTreePreorderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
+|56| [leetcode94_binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [binary-tree-preorder-traversal](/problems/leetcode94_BinaryTreeInorderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
+|57| [leetcode145_binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [binary-tree-postorder-traversal](/problems/leetcode145_BinaryTreePostorderTraversal/readme.md) | Tree, Stack | ![](img/hard.png) | ✅ |
 
 ### stack queue priorityQueue
 
-144/ 94/ 145 / 341 /
+145 / 341 /
 
 
 
