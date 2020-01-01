@@ -71,17 +71,25 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |63| [leetcode279_perfect-squares](https://leetcode-cn.com/problems/perfect-squares/) | [perfect-squares](/problems/leetcode279_PerfectSquares/readme.md) | Graph, Stack, DP | ![](img/medium.png) | ✅ |
 |64| [leetcode347_top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [top-k-frequent-elements](/problems/leetcode347_TopKFrequentElements/readme.md) | PriorityQueue | ![](img/medium.png) | ❌ |
 |65| [leetcode23_merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [merge-k-sorted-lists](/problems/leetcode23_MergekSortedLists/readme.md) | PriorityQueue, LinkedList | ![](img/hard.png) | ✅ |
-|66| [leetcode104_maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [maximum-depth-of-binary-tree](/problems/leetcode104_MaximumDepthofBinaryTree/readme.md) | PriorityQueue, LinkedList | ![](img/easy.png) | ❌ |
-|67| [leetcode100_same-tree](https://leetcode-cn.com/problems/same-tree/) | [same-tree](/problems/leetcode100_SameTree/readme.md) | PriorityQueue, LinkedList | ![](img/easy.png) | ❌ |
+|66| [leetcode104_maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [maximum-depth-of-binary-tree](/problems/leetcode104_MaximumDepthofBinaryTree/readme.md) | Recursive, Tree | ![](img/easy.png) | ❌ |
+|67| [leetcode100_same-tree](https://leetcode-cn.com/problems/same-tree/) | [same-tree](/problems/leetcode100_SameTree/readme.md) | Recursive, Tree | ![](img/easy.png) | ❌ |
+|68| [leetcode101_symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree/) | [symmetric-tree](/problems/leetcode100_SameTree/readme.md) | Recursive, Tree | ![](img/easy.png) | ✅ |
+// |69| [leetcode222_count-complete-tree-nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [count-complete-tree-nodes](/problems/leetcode222_CountCompleteTreeNodes/readme.md) | PriorityQueue, tree | ![](img/medium.png) | ✅ |
+|70| [leetcode70_climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [climbing-stairs](/problems/leetcode70_ClimbingStairs/readme.md) | DP | ![](img/easy.png) | ❌ |
+|71| [leetcode120_triangle](https://leetcode-cn.com/problems/triangle/) | [triangle](/problems/leetcode120_Triangle/readme.md) | DP | ![](img/medium.png) | ❌ |
 
 ### Tree and recursive
 
-  100 / 101 / 222 / 110 / 112 / 111/ 404
- / 257 / 113 / 129 / 437 / 235 / 98 / 450 / 108 / 230 / 236 /  
+222 / 110 / 112 / 111/ 404
+257 / 113 / 129 / 437 / 235 / 98 / 450 / 108 / 230 / 236 /  
 
 ### Graph
  279 / 127 / 126
 
+
+### DP
+
+70 120 64 343 
 
 
 ### Leetcode Retag

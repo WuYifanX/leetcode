@@ -18,7 +18,8 @@ Your algorithm's time complexity must be better than O(n log n), where n is the 
 # Solution
 
 1. 对于堆的话, 可以使用最大堆. 有点浪费资源.
-2. 如果使用最小堆的话, 那么就可以最大效率的利用空间.
+2. 如果使用最小堆的话, 那么就可以最大效率的利用空间. 但是逻辑会比较绕
+首先什么时候加入堆. 而且最小堆的话, 最顶端的是最小数, 所以还有用头插法每次插入结果的链表(list没有头插的方法).
 
 ```java
 package leetcode347_TopKFrequentElements;
