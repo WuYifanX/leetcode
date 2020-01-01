@@ -68,12 +68,16 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |60| [leetcode107_binary-tree-level-order-traversal-ii](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [binary-tree-level-order-traversal-ii](/problems/leetcode107_BinaryTreeLevelOrderTraversalII/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
 |61| [leetcode103_binary-tree-zigzag-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [binary-tree-zigzag-level-order-traversal](/problems/leetcode103_BinaryTreeZigzagLevelOrderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
 |62| [leetcode199_binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [binary-tree-right-side-view](/problems/leetcode199_BinaryTreeRightSideView/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
-|62| [leetcode279_perfect-squares](https://leetcode-cn.com/problems/perfect-squares/) | [perfect-squares](/problems/leetcode279_PerfectSquares/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
-|63| [leetcode347_top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [top-k-frequent-elements](/problems/leetcode347_TopKFrequentElements/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
-|63| [leetcode23_merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [merge-k-sorted-lists](/problems/leetcode23_MergekSortedLists/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
+|63| [leetcode279_perfect-squares](https://leetcode-cn.com/problems/perfect-squares/) | [perfect-squares](/problems/leetcode279_PerfectSquares/readme.md) | Graph, Stack, DP | ![](img/medium.png) | ✅ |
+|64| [leetcode347_top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [top-k-frequent-elements](/problems/leetcode347_TopKFrequentElements/readme.md) | PriorityQueue | ![](img/medium.png) | ❌ |
+|65| [leetcode23_merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [merge-k-sorted-lists](/problems/leetcode23_MergekSortedLists/readme.md) | PriorityQueue, LinkedList | ![](img/hard.png) | ✅ |
+|66| [leetcode104_maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [maximum-depth-of-binary-tree](/problems/leetcode104_MaximumDepthofBinaryTree/readme.md) | PriorityQueue, LinkedList | ![](img/easy.png) | ❌ |
+|67| [leetcode100_same-tree](https://leetcode-cn.com/problems/same-tree/) | [same-tree](/problems/leetcode100_SameTree/readme.md) | PriorityQueue, LinkedList | ![](img/easy.png) | ❌ |
 
-### stack queue priorityQueue
+### Tree and recursive
 
+  100 / 101 / 222 / 110 / 112 / 111/ 404
+ / 257 / 113 / 129 / 437 / 235 / 98 / 450 / 108 / 230 / 236 /  
 
 ### Graph
  279 / 127 / 126
