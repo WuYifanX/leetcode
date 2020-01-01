@@ -63,10 +63,20 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |55| [leetcode144_binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [binary-tree-preorder-traversal](/problems/leetcode144_BinaryTreePreorderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
 |56| [leetcode94_binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [binary-tree-preorder-traversal](/problems/leetcode94_BinaryTreeInorderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
 |57| [leetcode145_binary-tree-postorder-traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [binary-tree-postorder-traversal](/problems/leetcode145_BinaryTreePostorderTraversal/readme.md) | Tree, Stack | ![](img/hard.png) | ✅ |
+|58| [leetcode341_flatten-nested-list-iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [flatten-nested-list-iterator](/problems/leetcode341_FlattenNestedListIterator/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
+|59| [leetcode102_binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [binary-tree-level-order-traversal](/problems/leetcode102_BinaryTreeLevelOrderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
+|60| [leetcode107_binary-tree-level-order-traversal-ii](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [binary-tree-level-order-traversal-ii](/problems/leetcode107_BinaryTreeLevelOrderTraversalII/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
+|61| [leetcode103_binary-tree-zigzag-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [binary-tree-zigzag-level-order-traversal](/problems/leetcode103_BinaryTreeZigzagLevelOrderTraversal/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
+|62| [leetcode199_binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [binary-tree-right-side-view](/problems/leetcode199_BinaryTreeRightSideView/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
+|62| [leetcode279_perfect-squares](https://leetcode-cn.com/problems/perfect-squares/) | [perfect-squares](/problems/leetcode279_PerfectSquares/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
+|63| [leetcode347_top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [top-k-frequent-elements](/problems/leetcode347_TopKFrequentElements/readme.md) | Tree, Stack | ![](img/medium.png) | ❌ |
+|63| [leetcode23_merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [merge-k-sorted-lists](/problems/leetcode23_MergekSortedLists/readme.md) | Tree, Stack | ![](img/medium.png) | ✅ |
 
 ### stack queue priorityQueue
 
-145 / 341 /
+
+### Graph
+ 279 / 127 / 126
 
 
 
