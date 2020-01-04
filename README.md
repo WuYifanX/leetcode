@@ -83,6 +83,8 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |75| [leetcode404_sum-of-left-leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [sum-of-left-leaves](/problems/leetcode404_SumofLeftLeaves/readme.md) | Tree, Recursive | ![](img/easy.png) | ✅ |
 |76| [leetcode64_minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/) | [minimum-path-sum](/problems/leetcode64_MinimumPathSum/readme.md) | DP | ![](img/medium.png) | ❌ |
 |77| [leetcode343_integer-break](https://leetcode-cn.com/problems/integer-break/) | [integer-break](/problems/leetcode343_IntegerBreak/readme.md) | DP, Recursive | ![](img/medium.png) | ✅ |
+|78| [leetcode91_decode-ways](https://leetcode-cn.com/problems/decode-ways/) | [decode-ways](/problems/leetcode91_DecodeWays/readme.md) | DP, Recursive | ![](img/medium.png) | ✅ |
+|79| [leetcode62_unique-paths](https://leetcode-cn.com/problems/unique-paths/) | [unique-paths](/problems/leetcode62_UniquePaths/readme.md) | DP, Recursive | ![](img/medium.png) | ❌ |
 
 ### Tree and recursive
 257 / 113 / 129 / 437 / 235 / 98 / 450 / 108 / 230 / 236 /  
@@ -92,7 +94,7 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 
 ### DP
 
-279 / 91 / 62 / 63
+63
 
 
 ### Leetcode Retag
