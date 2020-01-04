@@ -5,7 +5,7 @@ public class Solution3 {
     int m = grid.length;
     int n = grid[0].length;
     // definition
-    // dp[i][j] means the mini path sum of point (i, j);
+    // dp[i][j] means the mini path findSumFromNodeToChild of point (i, j);
 
 
     for (int i = 0; i < m; i++) {

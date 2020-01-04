@@ -85,16 +85,28 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |77| [leetcode343_integer-break](https://leetcode-cn.com/problems/integer-break/) | [integer-break](/problems/leetcode343_IntegerBreak/readme.md) | DP, Recursive | ![](img/medium.png) | ✅ |
 |78| [leetcode91_decode-ways](https://leetcode-cn.com/problems/decode-ways/) | [decode-ways](/problems/leetcode91_DecodeWays/readme.md) | DP, Recursive | ![](img/medium.png) | ✅ |
 |79| [leetcode62_unique-paths](https://leetcode-cn.com/problems/unique-paths/) | [unique-paths](/problems/leetcode62_UniquePaths/readme.md) | DP, Recursive | ![](img/medium.png) | ❌ |
+|80| [leetcode63_unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/) | [unique-paths-ii](/problems/leetcode63_UniquePathsII/readme.md) | DP, Recursive | ![](img/medium.png) | ❌ |
+|81| [leetcode198_house-robber](https://leetcode-cn.com/problems/house-robber/) | [house-robber](/problems/leetcode198_HouseRobber/readme.md) | DP, Recursive | ![](img/easy.png) | ✅ |
+|82| [leetcode257_binary-tree-paths](https://leetcode-cn.com/problems/binary-tree-paths/) | [binary-tree-paths](/problems/leetcode198_HouseRobber/readme.md) | Tree, Recursive | ![](img/easy.png) | ❌ |
+|83| [leetcode113_path-sum-ii](https://leetcode-cn.com/problems/path-sum-ii/) | [path-sum-ii](/problems/leetcode113_PathSumII/readme.md) | Tree, Recursive | ![](img/easy.png) | ❌ |
+|84| [leetcode129_sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [sum-root-to-leaf-numbers](/problems/leetcode113_PathSumII/readme.md) | Tree, Recursive | ![](img/easy.png) | ❌ |
+|85| [leetcode437_path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii/) | [path-sum-iii](/problems/leetcode437_PathSumIII/readme.md) | Tree, Recursive | ![](img/easy.png) | ✅ |
+|86| [leetcode235_lowest-common-ancestor-of-a-binary-search-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [lowest-common-ancestor-of-a-binary-search-tree](/problems/leetcode235_LowestCommonAncestorOfABinarySearchTree/readme.md) | Tree, Recursive | ![](img/easy.png) | ❌ |
+|87| [leetcode98_validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [validate-binary-search-tree](/problems/leetcode98_ValidateBinarySearchTree/readme.md) | Tree, Recursive | ![](img/medium.png) | ✅ |
 
 ### Tree and recursive
-257 / 113 / 129 / 437 / 235 / 98 / 450 / 108 / 230 / 236 /  
+
+450 / 108 / 230 / 236 /  
 
 ### Graph
 279 / 127 / 126
 
 ### DP
 
-63
+213 / 337 / 309
+
+### 0-1 pack
+
 
 
 ### Leetcode Retag
