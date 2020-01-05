@@ -71,7 +71,7 @@ public class Solution2 {
     int m = grid.length + 1;
     int n = grid[0].length + 1;
     // definition
-    // dp[i][j] means the mini path sum of point (i, j);
+    findSumFromNodeToChild
 
     // init the matrix.
     int[][] dp = new int[m][n];

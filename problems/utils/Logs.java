@@ -10,7 +10,7 @@ public class Logs {
     System.out.println();
   }
 
-  public static void print(List<Integer> arrays) {
+  public static <T> void print(List<T> arrays) {
     for (int i = 0; i < arrays.size(); i++) {
       System.out.print(arrays.get(i) + " ");
     }
