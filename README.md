@@ -99,9 +99,13 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |91| [leetcode236_lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [lowest-common-ancestor-of-a-binary-tree](/problems/leetcode236_LowestCommonAncestorofABinaryTree/readme.md) | BST | ![](img/medium.png) | ✅ |
 |92| [leetcode213_house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii/) | [house-robber-ii](/problems/leetcode213_HouseRobberII/readme.md) | DP | ![](img/medium.png) | ✅ |
 |93| [leetcode17_letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [letter-combinations-of-a-phone-number](/problems/leetcode17_LetterCombinationsOfAPhoneNumber/readme.md) | Recursive | ![](img/medium.png) | ❌ |
+|94| [leetcode131_palindrome-partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [palindrome-partitioning](/problems/leetcode131_PalindromePartitioning/readme.md) | Recursive | ![](img/medium.png) | ✅ |
+|95| [leetcode93_restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [restore-ip-addresses](/problems/leetcode93_RestoreIPAddresses/readme.md) | Recursive | ![](img/medium.png) | ❌ |
+|96| [leetcode46_permutations](https://leetcode-cn.com/problems/permutations/) | [permutations](/problems/leetcode46_Permutations/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|97| [leetcode47_permutations-ii](https://leetcode-cn.com/problems/permutations-ii/) | [permutations-ii](/problems/leetcode47_permutations_ii/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 
 ### recursive
-93 131 46 47 77 39 40 216 78 90 401 79 
+47 77 39 40 216 78 90 401 79 
 
 ### blood fill
 200 130 417 51 52 37 
