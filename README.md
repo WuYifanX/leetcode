@@ -103,9 +103,13 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |95| [leetcode93_restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [restore-ip-addresses](/problems/leetcode93_RestoreIPAddresses/readme.md) | Recursive | ![](img/medium.png) | ❌ |
 |96| [leetcode46_permutations](https://leetcode-cn.com/problems/permutations/) | [permutations](/problems/leetcode46_Permutations/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 |97| [leetcode47_permutations-ii](https://leetcode-cn.com/problems/permutations-ii/) | [permutations-ii](/problems/leetcode47_permutations_ii/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|98| [leetcode77_combinations](https://leetcode-cn.com/problems/combinations/) | [combinations](/problems/leetcode77_Combinations/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|99| [leetcode39_combination-sum](https://leetcode-cn.com/problems/combination-sum/) | [combination-sum](/problems/leetcode39_CombinationSum/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|100| [leetcode40_combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii/) | [combination-sum-ii](/problems/leetcode40_CombinationSumII/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|101| [leetcode216_combination-sum-iii](https://leetcode-cn.com/problems/combination-sum-iii/) | [combination-sum-iii](/problems/leetcode216_CombinationSumIII/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 
 ### recursive
-47 77 39 40 216 78 90 401 79 
+78 90 401 79 
 
 ### blood fill
 200 130 417 51 52 37 
