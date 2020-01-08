@@ -19,6 +19,9 @@ Output:
 
 # Solution
 
+1. 可以注意下这里的剪枝优化操作:
+
+`for (int i = start; i <= n - leftCount + 1; i++) {`
 
 ```java
 package leetcode77_Combinations;
@@ -47,7 +50,11 @@ class Solution {
       return;
     }
 
-    for (int i = start; i <= n; i++) {
+    // tips: 这里可以提前返回剪枝完成.
+    // 因为 leftCount表示, 我还需要多少个元素, 假如说leftCount ==2; 那么i == n, 也就没办法找到最后一个了.
+    // 所以这里可以把原始的这一句话优化下:
+    //  for (int i = start; i <= n; i++) {
+    for (int i = start; i <= n - leftCount + 1; i++) {
       stack.addLast(i);
       leftCount--;
       innerCombine(n, i + 1, leftCount);
@@ -60,5 +67,6 @@ class Solution {
     System.out.println(new Solution().combine(4, 2));
   }
 }
+
 
 ```

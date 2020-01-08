@@ -34,8 +34,9 @@ A solution set is:
 # Solution
 
 1. 使用map可以避免掉重复排序关系. 比如说可以避免掉[1,1,6] 出现2次, 
-但是没办法解决[1, 1, 6], [1, 6, 1]这种重复.
-
+但是没办法解决[1, 1, 6], [1, 6, 1]这种重复. 就是说需要排除逆序的出现, [3,2,1] , [1,3,2]这种.
+通过
+`if (!stack.isEmpty() && entry.getKey() < stack.peekLast()) continue;`
 
 ```java
 package leetcode40_CombinationSumII;
