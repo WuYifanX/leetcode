@@ -109,6 +109,10 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |101| [leetcode216_combination-sum-iii](https://leetcode-cn.com/problems/combination-sum-iii/) | [combination-sum-iii](/problems/leetcode216_CombinationSumIII/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 |102| [leetcode78_subsets](https://leetcode-cn.com/problems/subsets/) | [subsets](/problems/leetcode78_Subsets/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 |103| [leetcode90_subsets-ii](https://leetcode-cn.com/problems/subsets-ii/) | [subsets-ii](/problems/leetcode90_Subsetsii/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|104| [leetcode7_reverse-integer](https://leetcode-cn.com/problems/reverse-integer/) | [reverse-integer](/problems/leetcode7_ReverseInteger/readme.md) | Math | ![](img/easy.png) | ✅  |
+|105| [leetcode9_palindrome-number](https://leetcode-cn.com/problems/palindrome-number/) | [palindrome-number](/problems/leetcode9_PalindromeNumber/readme.md) | Math | ![](img/easy.png) | ❌  |
+|106| [leetcode13_roman-to-integer](https://leetcode-cn.com/problems/roman-to-integer/) | [roman-to-integer](/problems/leetcode13_RomantoInteger/readme.md) | Math | ![](img/easy.png) | ❌  |
+// |104| [leetcode79_word-search](https://leetcode-cn.com/problems/word-search/) | [subsets-ii](/problems/leetcode79_WordSearch/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 
 ### recursive
 401 79 
