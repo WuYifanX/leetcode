@@ -112,7 +112,10 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |104| [leetcode7_reverse-integer](https://leetcode-cn.com/problems/reverse-integer/) | [reverse-integer](/problems/leetcode7_ReverseInteger/readme.md) | Math | ![](img/easy.png) | ✅  |
 |105| [leetcode9_palindrome-number](https://leetcode-cn.com/problems/palindrome-number/) | [palindrome-number](/problems/leetcode9_PalindromeNumber/readme.md) | Math | ![](img/easy.png) | ❌  |
 |106| [leetcode13_roman-to-integer](https://leetcode-cn.com/problems/roman-to-integer/) | [roman-to-integer](/problems/leetcode13_RomantoInteger/readme.md) | Math | ![](img/easy.png) | ❌  |
-// |104| [leetcode79_word-search](https://leetcode-cn.com/problems/word-search/) | [subsets-ii](/problems/leetcode79_WordSearch/readme.md) | Recursive | ![](img/medium.png) | ✅  |
+|107| [leetcode14_longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [longest-common-prefix](/problems/leetcode14_LongestCommonPrefix/readme.md) | String | ![](img/easy.png) | ❌  |
+|107| [leetcode14_longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [longest-common-prefix](/problems/leetcode14_LongestCommonPrefix/readme.md) | String | ![](img/easy.png) | ❌  |
+|108| [leetcode28_implement-strstr](https://leetcode-cn.com/problems/implement-strstr/) | [implement-strstr](/problems/leetcode28_ImplementStrStr/readme.md) | String | ![](img/easy.png) | ✅  |
+|109| [leetcode79_word-search](https://leetcode-cn.com/problems/word-search/) | [subsets-ii](/problems/leetcode79_WordSearch/readme.md) | Recursive | ![](img/medium.png) | ✅  |
 
 ### recursive
 401 79 
