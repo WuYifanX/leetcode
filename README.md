@@ -120,6 +120,8 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 // |112| [leetcode417_pacific-atlantic-water-flow](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) | [pacific-atlantic-water-flow](/problems/leetcode417_PacificAtlanticWaterFlow/readme.md) | Recursive | ![](img/medium.png) | ✅ |
 |113| [leetcode35_search-insert-position](https://leetcode-cn.com/problems/search-insert-position/) | [search-insert-position](/problems/leetcode35_SearchInsertPosition/readme.md) | Search | ![](img/easy.png) | ❌ |
 |114| [leetcode3_longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md) | String | ![](img/medium.png) | ❌ |
+|115| [leetcode5_longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [longest-palindromic-substring](/problems/leetcode5_LongestPalindromicSubstring/readme.md) | String, DP | ![](img/medium.png) | ✅ |
+|116| [leetcode6_zigzag-conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [zigzag-conversion](/problems/leetcode5_LongestPalindromicSubstring/readme.md) | String, Math | ![](img/medium.png) | ❌ |
 
 ### recursive
 417 51 52 37 401 

@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode130_SurroundedRegions/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode130_SurroundedRegions/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode200_NumberofIslands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode200_NumberofIslands/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode35_SearchInsertPosition/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode35_SearchInsertPosition/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode417_PacificAtlanticWaterFlow/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode417_PacificAtlanticWaterFlow/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode14_LongestCommonPrefix/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode14_LongestCommonPrefix/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode79_WordSearch/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode79_WordSearch/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/leetcode79_WordSearch/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode79_WordSearch/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode130_SurroundedRegions/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode130_SurroundedRegions/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode130_SurroundedRegions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode130_SurroundedRegions/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +32,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="261">
-                <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+              <first_editor relative-caret-position="298">
+                <caret line="123" column="184" selection-start-line="123" selection-start-column="184" selection-end-line="123" selection-end-column="184" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="60" selection-start-column="8" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -78,7 +65,6 @@
       <find>node</find>
       <find>qPath</find>
       <find>213</find>
-      <find>result</find>
       <find>93</find>
       <find>split</find>
       <find>permuteUnique</find>
@@ -96,6 +82,7 @@
       <find>hours</find>
       <find>X</find>
       <find>isVisited</find>
+      <find>result</find>
     </findStrings>
     <replaceStrings>
       <replace>'A'</replace>
@@ -135,12 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/leetcode131_PalindromePartitioning/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode93_RestoreIPAddresses/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode93_RestoreIPAddresses/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode46_Permutations/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode46_Permutations/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode47_permutations_ii/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode47_permutations_ii/Solution2.java" />
         <option value="$PROJECT_DIR$/problems/leetcode39_CombinationSum/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode39_CombinationSum/readme.md" />
@@ -183,8 +164,14 @@
         <option value="$PROJECT_DIR$/problems/leetcode417_PacificAtlanticWaterFlow/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode35_SearchInsertPosition/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode35_SearchInsertPosition/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution2.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/Solution2.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -218,6 +205,12 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode6_ZigZagConversion" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -240,11 +233,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode5_LongestPalindromicSubstring" />
+      <recent name="leetcode3_LongestSubstringWithoutRepeatingCharacters" />
       <recent name="leetcode200_NumberofIslands" />
       <recent name="leetcode90_Subsetsii" />
       <recent name="leetcode78_Subsets" />
-      <recent name="leetcode47_permutations_ii" />
-      <recent name="leetcode131_PalindromePartitioning" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/problems/leetcode78_Subsets" />
@@ -266,13 +259,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode13_RomantoInteger.Solution" />
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode6_ZigZagConversion.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode13_RomantoInteger.*" />
+          <option name="PATTERN" value="leetcode6_ZigZagConversion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -358,12 +351,12 @@
       <workItem from="1577066057891" duration="46589000" />
       <workItem from="1577240720470" duration="118179000" />
       <workItem from="1577695879912" duration="109381000" />
-      <workItem from="1578225890453" duration="78007000" />
+      <workItem from="1578225890453" duration="86870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365309000" />
+    <option name="totallyTimeSpent" value="374172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,14 +378,14 @@
       <window_info id="Favorites" order="4" sideWeight="0.50276244" side_tool="true" weight="0.37184116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" weight="0.2589396" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.44143033" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" visible="true" weight="0.2589396" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.40937114" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32799014" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5787579" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5782984" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50180507" side_tool="true" weight="0.26263872" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32799014" />
@@ -563,98 +556,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode46_Permutations/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1042#1043#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode47_permutations_ii/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" lean-forward="true" selection-end-line="60" />
-          <folding>
-            <element signature="e#1416#1417#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode47_permutations_ii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode39_CombinationSum/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="748">
-            <caret line="34" selection-start-line="34" selection-end-line="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode40_CombinationSumII/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="1078">
-            <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode40_CombinationSumII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode46_Permutations/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode47_permutations_ii/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            <folding>
-              <element signature="e#1402#1403#0" expanded="true" />
-              <element signature="e#1481#1482#0" expanded="true" />
-              <element signature="e#1378#1379#0" expanded="true" />
-              <element signature="e#1456#1457#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode216_CombinationSumIII/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1391,8 +1292,11 @@
     <entry file="file://$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="462">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <first_editor relative-caret-position="2134">
+            <caret line="98" selection-start-line="98" selection-end-line="98" />
+            <folding>
+              <element signature="imports" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1400,16 +1304,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="60" selection-start-column="8" selection-end-column="60" />
+        <state relative-caret-position="286">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="270" column="7" lean-forward="true" selection-start-line="270" selection-start-column="7" selection-end-line="270" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/Notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="15" lean-forward="true" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="14" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="307">
+            <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#1028#1029#0" expanded="true" />
+              <element signature="e#1089#1090#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="261">
-            <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+          <first_editor relative-caret-position="298">
+            <caret line="123" column="184" selection-start-line="123" selection-start-column="184" selection-end-line="123" selection-end-column="184" />
           </first_editor>
           <second_editor />
         </state>
