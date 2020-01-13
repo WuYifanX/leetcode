@@ -64,7 +64,7 @@ class Solution {
   public static void main(String[] args) {
     int[] input = new int[] {1, 2, 3, 4, 5};
     ListNode head = Logs.createListNodes(input);
-    //    Logs.print(new Solution().reverseKGroup(head, 2));
+    //    Logs.print(new DPSolution().reverseKGroup(head, 2));
     Logs.print(new Solution().reverseKGroup(head, 3));
   }
 }

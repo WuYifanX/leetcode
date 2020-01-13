@@ -80,6 +80,6 @@ public class Solution2 {
 
   public static void main(String[] args) {
     System.out.println(new Solution2().minWindow("cabwefgewcwaefgcf", "cae"));
-    //    System.out.println(new Solution().minWindow("a", "a"));
+    //    System.out.println(new DPSolution().minWindow("a", "a"));
   }
 }

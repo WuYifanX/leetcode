@@ -73,6 +73,6 @@ public class Solution {
 
   public static void main(String[] args) {
         System.out.println(new Solution().minWindow("ADOBECODEBANC", "ABC"));
-//    System.out.println(new Solution().minWindow("a", "a"));
+//    System.out.println(new DPSolution().minWindow("a", "a"));
   }
 }

@@ -56,7 +56,7 @@ class Solution {
 //    int[] input = new int[] {1, 2, 3, 4, 5};
 //    ListNode head = Logs.createListNodes(input);
 //    Logs.print(head);
-//    Logs.print(new Solution().oddEvenList(head));
+//    Logs.print(new DPSolution().oddEvenList(head));
 
     System.out.println();
     int[] input2 = new int[] {2, 1, 3, 5, 6, 4, 7};

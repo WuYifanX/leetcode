@@ -68,6 +68,6 @@ public class Solution {
 
   public static void main(String[] args) {
     Logs.print(new Solution().findAnagrams("baa", "aa"));
-    //    System.out.println(new Solution().isAnagrams(input, 5, 19, target));
+    //    System.out.println(new DPSolution().isAnagrams(input, 5, 19, target));
   }
 }

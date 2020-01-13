@@ -122,15 +122,19 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |114| [leetcode3_longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-without-repeating-characters](/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md) | String | ![](img/medium.png) | ❌ |
 |115| [leetcode5_longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [longest-palindromic-substring](/problems/leetcode5_LongestPalindromicSubstring/readme.md) | String, DP | ![](img/medium.png) | ✅ |
 |116| [leetcode6_zigzag-conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [zigzag-conversion](/problems/leetcode5_LongestPalindromicSubstring/readme.md) | String, Math | ![](img/medium.png) | ❌ |
+|117| [leetcode51_n-queens](https://leetcode-cn.com/problems/n-queens/) | [n-queens](/problems/leetcode51_NQueens/readme.md) | BackTracking | ![](img/hard.png) | ✅ |
+|118| [leetcode416_partition-equal-subset-sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [partition-equal-subset-sum](/problems/leetcode416_PartitionEqualSubsetSum/readme.md) | DP | ![](img/medium.png) | ✅ |
+|119| [leetcode213_house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii/) | [house-robber-ii](/problems/leetcode213_HouseRobberII/readme.md) | DP | ![](img/medium.png) | ✅ |
+|120| [leetcode337_house-robber-iii](https://leetcode-cn.com/problems/house-robber-iii/) | [house-robber-iii](/problems/leetcode337_HouseRobberIII/readme.md) | DP | ![](img/medium.png) | ✅ |
 
-### recursive
-417 51 52 37 401 
+### backtracking
+401 417  37  
 
 ### Graph
 279 / 127 / 126
 
 ### DP
-213 / 337 / 309
+337 / 309
 
 ### 0-1 pack
 
