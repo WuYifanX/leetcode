@@ -126,6 +126,10 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |118| [leetcode416_partition-equal-subset-sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [partition-equal-subset-sum](/problems/leetcode416_PartitionEqualSubsetSum/readme.md) | DP | ![](img/medium.png) | ✅ |
 |119| [leetcode213_house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii/) | [house-robber-ii](/problems/leetcode213_HouseRobberII/readme.md) | DP | ![](img/medium.png) | ✅ |
 |120| [leetcode337_house-robber-iii](https://leetcode-cn.com/problems/house-robber-iii/) | [house-robber-iii](/problems/leetcode337_HouseRobberIII/readme.md) | DP | ![](img/medium.png) | ✅ |
+|121| [leetcode322_coin-change](https://leetcode-cn.com/problems/coin-change/) | [coin-change](/problems/leetcode322_CoinChange/readme.md) | DP | ![](img/medium.png) | ✅ |
+|122| [leetcode377_combination-sum-iv](https://leetcode-cn.com/problems/combination-sum-iv/) | [combination-sum-iv](/problems/leetcode377_CombinationSumIV/readme.md) | DP | ![](img/medium.png) | ✅ |
+|123| [leetcode139_word-break](https://leetcode-cn.com/problems/word-break/) | [word-break](/problems/leetcode139_WordBreak/readme.md) | DP | ![](img/medium.png) | ✅ |
+|124| [leetcode474_ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/) | [ones-and-zeroes](/problems/leetcode139_WordBreak/readme.md) | DP | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
@@ -133,11 +137,11 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 ### Graph
 279 / 127 / 126
 
-### DP
-337 / 309
+### Best Time to Buy and Sell Stock
+121 122 123 188 309
 
 ### 0-1 pack
-
+474 494
 
 ### Leetcode Retag
 
