@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode0_practice/Knapsack/ZeroOneKnapsack/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode0_practice/Knapsack/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode139_WordBreak/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode139_WordBreak/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode322_CoinChange/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode322_CoinChange/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode322_CoinChange/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode66_PlusOne/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode66_PlusOne/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode213_HouseRobberII/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode213_HouseRobberII/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode139_WordBreak/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode139_WordBreak/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="289">
-                <caret line="131" column="105" selection-start-line="131" selection-start-column="105" selection-end-line="131" selection-end-column="105" />
+              <first_editor relative-caret-position="236">
+                <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -42,22 +39,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/Solution2.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="253">
+              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode139_WordBreak/Solution.java">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state>
+              <caret column="33" selection-start-column="8" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#count0And1#0;class#Solution#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="308">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -67,16 +76,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>permuteUnique</find>
-      <find>stack</find>
       <find>isUsed</find>
       <find>hashSet</find>
       <find>innerCombinationSum</find>
@@ -90,7 +97,6 @@
       <find>hours</find>
       <find>X</find>
       <find>isVisited</find>
-      <find>result</find>
       <find>347</find>
       <find>answer</find>
       <find>401</find>
@@ -105,6 +111,9 @@
       <find>139</find>
       <find>wordSet</find>
       <find>start + length</find>
+      <find>currentValue</find>
+      <find>dp</find>
+      <find>result</find>
     </findStrings>
     <replaceStrings>
       <replace>'A'</replace>
@@ -144,15 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/leetcode28_ImplementStrStr()/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode28_ImplementStrStr()/Solution.kt" />
-        <option value="$PROJECT_DIR$/problems/leetcode28_ImplementStrStr/Solution.kt" />
-        <option value="$PROJECT_DIR$/problems/leetcode28_ImplementStrStr/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode28_ImplementStrStr/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode79_WordSearch/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode401_BinaryWatch/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode401_BinaryWatch/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode200_NumberofIslands/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode200_NumberofIslands/Solution2.java" />
         <option value="$PROJECT_DIR$/problems/leetcode200_NumberofIslands/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode130_SurroundedRegions/Solution.java" />
@@ -194,6 +194,15 @@
         <option value="$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/Solution2.java" />
         <option value="$PROJECT_DIR$/problems/leetcode139_WordBreak/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode139_WordBreak/readme.md" />
+        <option value="$PROJECT_DIR$/problems/test.kt" />
+        <option value="$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution2.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution3.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode66_PlusOne/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode66_PlusOne/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -206,10 +215,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-343" />
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -233,7 +240,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode139_WordBreak" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -261,11 +268,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode53_MaximumSubarray" />
       <recent name="leetcode377_CombinationSumIV" />
       <recent name="leetcode322_CoinChange" />
       <recent name="leetcode337_HouseRobberIII" />
       <recent name="leetcode213_HouseRobberII" />
-      <recent name="leetcode0_practice.ZeroOnePack" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/problems/leetcode78_Subsets" />
@@ -287,7 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode139_WordBreak.Solution" />
       <module name="leetcode" />
@@ -301,12 +308,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode322_CoinChange.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode474_OnesAndZeroes.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode322_CoinChange.*" />
+          <option name="PATTERN" value="leetcode474_OnesAndZeroes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode53_MaximumSubarray.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode53_MaximumSubarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,11 +335,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode377_CombinationSumIV.Solution" />
+      <option name="MAIN_CLASS_NAME" value="leetcode66_PlusOne.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode377_CombinationSumIV.*" />
+          <option name="PATTERN" value="leetcode66_PlusOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,25 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode322_CoinChange.Solution2" />
+    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode53_MaximumSubarray.Solution2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode322_CoinChange.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode377_CombinationSumIV.Solution2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode377_CombinationSumIV.*" />
+          <option name="PATTERN" value="leetcode53_MaximumSubarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution2 (2)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -379,12 +386,12 @@
       <workItem from="1577066057891" duration="46589000" />
       <workItem from="1577240720470" duration="118179000" />
       <workItem from="1577695879912" duration="109381000" />
-      <workItem from="1578225890453" duration="125933000" />
+      <workItem from="1578225890453" duration="145980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="413235000" />
+    <option name="totallyTimeSpent" value="433282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,24 +403,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-343" width="1920" height="1200" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" weight="0.33136728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49723756" visible="true" weight="0.3299639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50276244" side_tool="true" weight="0.37184116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" visible="true" weight="0.25832585" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.37237978" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" visible="true" weight="0.14426634" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.6078915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32799014" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34771886" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.47472256" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50180507" side_tool="true" weight="0.26263872" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32799014" />
@@ -495,13 +502,14 @@
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/Solution.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="islandStatus" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -543,6 +551,11 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>countUsed()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>wordSet.contains(currentWord)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -582,117 +595,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>treeSet.ceiling(floorValue) &lt;= ceilingValue</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode401_BinaryWatch/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1923#1924#0" expanded="true" />
-            <element signature="e#1947#1948#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode200_NumberofIslands/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="268">
-            <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode200_NumberofIslands/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode130_SurroundedRegions/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1526">
-            <caret line="95" selection-start-line="95" selection-end-line="95" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode130_SurroundedRegions/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode200_NumberofIslands/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode417_PacificAtlanticWaterFlow/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" selection-start-column="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode13_RomantoInteger/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode35_SearchInsertPosition/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="29" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode35_SearchInsertPosition/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="28" column="39" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode417_PacificAtlanticWaterFlow/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode3_LongestSubstringWithoutRepeatingCharacters/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1012,23 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode139_WordBreak/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -1040,11 +928,138 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/test.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode377_CombinationSumIV/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode139_WordBreak/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="12" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="213">
+            <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <folding>
+              <element signature="e#499#500#0" expanded="true" />
+              <element signature="e#576#577#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode53_MaximumSubarray/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode474_OnesAndZeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="8" selection-end-column="33" />
+          <folding>
+            <element signature="method#count0And1#0;class#Solution#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="3287" column="5" lean-forward="true" selection-start-line="3287" selection-start-column="5" selection-end-line="3287" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode66_PlusOne/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1320">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <folding>
+              <element signature="e#126#127#0" expanded="true" />
+              <element signature="e#179#180#0" expanded="true" />
+              <element signature="e#652#653#0" expanded="true" />
+              <element signature="e#717#718#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode66_PlusOne/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="289">
-            <caret line="131" column="105" selection-start-line="131" selection-start-column="105" selection-end-line="131" selection-end-column="105" />
+          <first_editor relative-caret-position="236">
+            <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

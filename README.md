@@ -129,7 +129,9 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |121| [leetcode322_coin-change](https://leetcode-cn.com/problems/coin-change/) | [coin-change](/problems/leetcode322_CoinChange/readme.md) | DP | ![](img/medium.png) | ✅ |
 |122| [leetcode377_combination-sum-iv](https://leetcode-cn.com/problems/combination-sum-iv/) | [combination-sum-iv](/problems/leetcode377_CombinationSumIV/readme.md) | DP | ![](img/medium.png) | ✅ |
 |123| [leetcode139_word-break](https://leetcode-cn.com/problems/word-break/) | [word-break](/problems/leetcode139_WordBreak/readme.md) | DP | ![](img/medium.png) | ✅ |
-|124| [leetcode474_ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/) | [ones-and-zeroes](/problems/leetcode139_WordBreak/readme.md) | DP | ![](img/medium.png) | ✅ |
+|124| [leetcode474_ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/) | [ones-and-zeroes](/problems/leetcode474_OnesAndZeroes/readme.md) | DP | ![](img/medium.png) | ✅ |
+|125| [leetcode53_maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [maximum-subarray](/problems/leetcode53_MaximumSubarray/readme.md) | DP | ![](img/easy.png) | ✅ |
+|126| [leetcode66_plus-one](https://leetcode-cn.com/problems/plus-one/) | [plus-one](/problems/leetcode66_PlusOne/readme.md) | array | ![](img/easy.png) | ❌ |
 
 ### backtracking
 401 417  37  
@@ -141,7 +143,7 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 121 122 123 188 309
 
 ### 0-1 pack
-474 494
+494
 
 ### Leetcode Retag
 
