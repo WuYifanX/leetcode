@@ -134,10 +134,12 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |126| [leetcode66_plus-one](https://leetcode-cn.com/problems/plus-one/) | [plus-one](/problems/leetcode66_PlusOne/readme.md) | array | ![](img/easy.png) | ❌ |
 |127| [leetcode121_best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [best-time-to-buy-and-sell-stock](/problems/leetcode121_BestTimeToBuyAndSellStock/readme.md) | dp | ![](img/easy.png) | ✅ |
 |128| [leetcode122_best-time-to-buy-and-sell-stock-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [best-time-to-buy-and-sell-stock-ii](/problems/leetcode122_BestTimeToBuyAndSellStockII/readme.md) | dp | ![](img/easy.png) | ✅ |
-//|129| [leetcode309_best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [best-time-to-buy-and-sell-stock-with-cooldown](/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md) | dp | ![](img/medium.png) | ✅ |
+|129| [leetcode309_best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [best-time-to-buy-and-sell-stock-with-cooldown](/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md) | dp | ![](img/medium.png) | ✅ |
 |130| [leetcode118_Pascals-Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [Pascals-Triangle](/problems/leetcode118_PascalsTriangle/readme.md) | array | ![](img/easy.png) | ❌ |
-|131| [leetcode119_Pascals-Triangle-II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Pascals-Triangle-II](/problems/leetcode119_PascalsTriangleII/readme.md) | dp | ![](img/easy.png) | ❌ |
-|132| [leetcode120_linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [linked-list-cycle](/problems/leetcode119_PascalsTriangleII/readme.md) | dp | ![](img/easy.png) | ❌ |
+|131| [leetcode119_Pascals-Triangle-II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [Pascals-Triangle-II](/problems/leetcode119_PascalsTriangleII/readme.md) | array | ![](img/easy.png) | ❌ |
+|132| [leetcode141_linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [linked-list-cycle](/problems/leetcode141_LinkedListCycle/readme.md) | linklist | ![](img/easy.png) | ❌ |
+|133| [leetcode300_longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [longest-increasing-subsequence](/problems/leetcode300_LongestIncreasingSubsequence/readme.md) | dp | ![](img/medium.png) | ❌ |
+|134| [leetcode376_wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/) | [wiggle-subsequence](/problems/leetcode376_WiggleSubsequence/readme.md) | Greedy | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
@@ -146,10 +148,16 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 279 / 127 / 126
 
 ### Best Time to Buy and Sell Stock
-121 122 123 188 309
+ 123 188
 
 ### 0-1 pack
 494
+
+### DP
+
+
+
+### 
 
 ### Leetcode Retag
 

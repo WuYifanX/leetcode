@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode118_PascalsTriangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode118_PascalsTriangle/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode119_PascalsTriangleII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode119_PascalsTriangleII/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode121_BestTimeToBuyAndSellStock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode121_BestTimeToBuyAndSellStock/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode122_BestTimeToBuyAndSellStockII/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode122_BestTimeToBuyAndSellStockII/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode300_LongestIncreasingSubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode300_LongestIncreasingSubsequence/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode376_WiggleSubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode376_WiggleSubsequence/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/yfwu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/yfwu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode66_PlusOne/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode66_PlusOne/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,23 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="560">
-                <caret line="147" column="35" lean-forward="true" selection-start-line="147" selection-start-column="35" selection-end-line="147" selection-end-column="35" />
+              <first_editor relative-caret-position="299">
+                <caret line="141" column="155" selection-start-line="141" selection-start-column="155" selection-end-line="141" selection-end-column="155" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -67,10 +51,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>79</find>
-      <find>hashMap</find>
-      <find>put</find>
-      <find>strs</find>
       <find>findStartFrom</find>
       <find>hoursResult</find>
       <find>hours</find>
@@ -81,7 +61,6 @@
       <find>401</find>
       <find>126</find>
       <find>127</find>
-      <find>309</find>
       <find>213</find>
       <find>279</find>
       <find>337</find>
@@ -97,6 +76,11 @@
       <find>addResult</find>
       <find>Word Ladder</find>
       <find>Word</find>
+      <find>121</find>
+      <find>123</find>
+      <find>188</find>
+      <find>309</find>
+      <find>37</find>
     </findStrings>
     <replaceStrings>
       <replace>'A'</replace>
@@ -136,10 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/leetcode5_LongestPalindromicSubstring/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode6_ZigZagConversion/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode51_NQueens/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode51_NQueens/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution2.java" />
         <option value="$PROJECT_DIR$/problems/leetcode0_practice/ZeroOnePack/Solution.java" />
@@ -178,15 +158,19 @@
         <option value="$PROJECT_DIR$/problems/leetcode121_BestTimeToBuyAndSellStock/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode122_BestTimeToBuyAndSellStockII/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode122_BestTimeToBuyAndSellStockII/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode118_PascalsTriangle/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode118_PascalsTriangle/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode119_PascalsTriangleII/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode119_PascalsTriangleII/readme.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode300_LongestIncreasingSubsequence/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode300_LongestIncreasingSubsequence/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode376_WiggleSubsequence/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode376_WiggleSubsequence/Solution.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -218,12 +202,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="problems" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode141_LinkedListCycle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -369,12 +347,12 @@
       <workItem from="1577066057891" duration="46589000" />
       <workItem from="1577240720470" duration="118179000" />
       <workItem from="1577695879912" duration="109381000" />
-      <workItem from="1578225890453" duration="155176000" />
+      <workItem from="1578225890453" duration="164432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="442478000" />
+    <option name="totallyTimeSpent" value="451734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,7 +374,7 @@
       <window_info id="Favorites" order="4" sideWeight="0.50276244" side_tool="true" weight="0.37184116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" visible="true" weight="0.14426634" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" weight="0.36744758" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.6078915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -581,37 +559,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode0_practice/ZeroOnePack/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="18" selection-start-line="10" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode1_TwoSum/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode0_practice/ZeroOnePack/RecursiveSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode0_practice/ZeroOnePack/DPSolutionWithOptimizion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode0_practice/ZeroOnePack/DPSolutionWithOptimizion2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -916,16 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1367,13 +1304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode118_PascalsTriangle/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5">
@@ -1404,16 +1334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="560">
-            <caret line="147" column="35" lean-forward="true" selection-start-line="147" selection-start-column="35" selection-end-line="147" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1424,10 +1344,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode300_LongestIncreasingSubsequence/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode300_LongestIncreasingSubsequence/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode141_LinkedListCycle/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state>
+          <caret column="35" selection-start-column="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="278">
+            <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode309_BestTimetoBuyandSellStockwithCooldown/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="16" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode376_WiggleSubsequence/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode376_WiggleSubsequence/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="299">
+            <caret line="141" column="155" selection-start-line="141" selection-start-column="155" selection-end-line="141" selection-end-column="155" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
