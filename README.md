@@ -143,6 +143,8 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |135| [leetcode455_assign-cookies](https://leetcode-cn.com/problems/assign-cookies/) | [wiggle-subsequence](/problems/leetcode455_AssignCookies/readme.md) | Greedy | ![](img/easy.png) | ❌ |
 |136| [leetcode392_is-subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [is-subsequence](/problems/leetcode392_IsSubsequence/readme.md) | Greedy | ![](img/easy.png) | ❌ |
 |137| [leetcode435_non-overlapping-intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [non-overlapping-intervals](/problems/leetcode392_IsSubsequence/readme.md) | Greedy | ![](img/medium.png) | ✅ |
+|138| [leetcode22_generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [generate-parentheses](/problems/leetcode22_GenerateParentheses/readme.md) | Greedy | ![](img/medium.png) | ✅ |
+|139| [leetcode33_search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [search-in-rotated-sorted-array](/problems/leetcode33_SearchInRotatedSortedArray/readme.md) | binarySearch | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
