@@ -145,6 +145,9 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |137| [leetcode435_non-overlapping-intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [non-overlapping-intervals](/problems/leetcode392_IsSubsequence/readme.md) | Greedy | ![](img/medium.png) | ✅ |
 |138| [leetcode22_generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/) | [generate-parentheses](/problems/leetcode22_GenerateParentheses/readme.md) | Greedy | ![](img/medium.png) | ✅ |
 |139| [leetcode33_search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [search-in-rotated-sorted-array](/problems/leetcode33_SearchInRotatedSortedArray/readme.md) | binarySearch | ![](img/medium.png) | ✅ |
+|140| [leetcode43_multiply-strings](https://leetcode-cn.com/problems/multiply-strings/) | [multiply-strings](/problems/leetcode43_MultiplyStrings/readme.md) | String | ![](img/medium.png) | ❌ |
+|141| [leetcode48_rotate-image](https://leetcode-cn.com/problems/rotate-image/) | [rotate-image](/problems/leetcode48_RotateImage/readme.md) | Math | ![](img/medium.png) | ✅ |
+|142| [leetcode50_powx-n](https://leetcode-cn.com/problems/powx-n/) | [powx-n](/problems/leetcode50_Pow/readme.md) | Math | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
