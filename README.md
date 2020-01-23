@@ -148,6 +148,16 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |140| [leetcode43_multiply-strings](https://leetcode-cn.com/problems/multiply-strings/) | [multiply-strings](/problems/leetcode43_MultiplyStrings/readme.md) | String | ![](img/medium.png) | ❌ |
 |141| [leetcode48_rotate-image](https://leetcode-cn.com/problems/rotate-image/) | [rotate-image](/problems/leetcode48_RotateImage/readme.md) | Math | ![](img/medium.png) | ✅ |
 |142| [leetcode50_powx-n](https://leetcode-cn.com/problems/powx-n/) | [powx-n](/problems/leetcode50_Pow/readme.md) | Math | ![](img/medium.png) | ✅ |
+|143| [leetcode54_spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix) | [spiral-matrix](/problems/leetcode54_SpiralMatrix/readme.md) | BFS,DFS | ![](img/medium.png) | ✅ |
+|144| [leetcode55_jump-game](https://leetcode-cn.com/problems/jump-game/) | [jump-game](/problems/leetcode50_Pow/readme.md) | Math | ![](img/medium.png) | ✅ |
+|145| [leetcode56_merge-intervals](https://leetcode-cn.com/problems/merge-intervals/) | [merge-intervals](/problems/leetcode56_MergeIntervals/readme.md) | Array | ![](img/medium.png) | ❌ |
+|146| [leetcode57_insert-interval](https://leetcode-cn.com/problems/insert-interval/) | [insert-interval](/problems/leetcode57_InsertInterval/readme.md) | Array | ![](img/medium.png) | ✅ |
+|147| [leetcode58_length-of-last-word](https://leetcode-cn.com/problems/length-of-last-word/) | [length-of-last-word](/problems/leetcode58_LengthofLastWord/readme.md) | Array | ![](img/easy.png) | ❌ |
+|148| [leetcode59_spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [spiral-matrix-ii](/problems/leetcode59_SpiralMatrixII/readme.md) | Array | ![](img/medium.png) | ✅ |
+|149| [leetcode60_permutation-sequence](https://leetcode-cn.com/problems/permutation-sequence/) | [permutation-sequence](/problems/leetcode60_PermutationSequence/readme.md) | Array | ![](img/medium.png) | ✅ |
+|150| [leetcode67_add-binary](https://leetcode-cn.com/problems/add-binary/) | [add-binary](/problems/leetcode67_AddBinary/readme.md) | String | ![](img/easy.png) | ❌ |
+|151| [leetcode69_sqrtx](https://leetcode-cn.com/problems/sqrtx/) | [sqrtx](/problems/leetcode69_Sqrtx/readme.md) | String | ![](img/easy.png) | ✅ |
+|152| [leetcode69_sqrtx](https://leetcode-cn.com/problems/sqrtx/) | [sqrtx](/problems/leetcode69_Sqrtx/readme.md) | String | ![](img/easy.png) | ✅ |
 
 ### backtracking
 401 417  37  
