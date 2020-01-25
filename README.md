@@ -157,7 +157,13 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |149| [leetcode60_permutation-sequence](https://leetcode-cn.com/problems/permutation-sequence/) | [permutation-sequence](/problems/leetcode60_PermutationSequence/readme.md) | Array | ![](img/medium.png) | ✅ |
 |150| [leetcode67_add-binary](https://leetcode-cn.com/problems/add-binary/) | [add-binary](/problems/leetcode67_AddBinary/readme.md) | String | ![](img/easy.png) | ❌ |
 |151| [leetcode69_sqrtx](https://leetcode-cn.com/problems/sqrtx/) | [sqrtx](/problems/leetcode69_Sqrtx/readme.md) | String | ![](img/easy.png) | ✅ |
-|152| [leetcode69_sqrtx](https://leetcode-cn.com/problems/sqrtx/) | [sqrtx](/problems/leetcode69_Sqrtx/readme.md) | String | ![](img/easy.png) | ✅ |
+|152| [leetcode73_set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [set-matrix-zeroes](/problems/leetcode73_SetMatrixZeroes/readme.md) | Array | ![](img/medium.png) | ✅ |
+|153| [leetcode74_search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [search-a-2d-matrix](/problems/leetcode74_Searcha2DMatrix/readme.md) | Array | ![](img/medium.png) | ✅ |
+|154| [leetcode81_search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [search-in-rotated-sorted-array-ii](/problems/leetcode81_SearchinRotatedSortedArrayII/readme.md) | Array | ![](img/medium.png) | ✅ |
+|155| [leetcode89_gray-code](https://leetcode-cn.com/problems/gray-code/) | [gray-code](/problems/leetcode89_GrayCode/readme.md) | Recursive | ![](img/medium.png) | ✅ |
+|156| [leetcode96_unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [unique-binary-search-trees](/problems/leetcode96_UniqueBinarySearchTrees/readme.md) | DP | ![](img/medium.png) | ✅✅ |
+|157| [leetcode31_next-permutation](https://leetcode-cn.com/problems/next-permutation/) | [next-permutation](/problems/leetcode31_NextPermutation/readme.md) | Array | ![](img/medium.png) | ✅ |
+|158| [leetcode95_unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [unique-binary-search-trees-ii](/problems/leetcode31_NextPermutation/readme.md) | Array | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
