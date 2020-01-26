@@ -163,7 +163,9 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |155| [leetcode89_gray-code](https://leetcode-cn.com/problems/gray-code/) | [gray-code](/problems/leetcode89_GrayCode/readme.md) | Recursive | ![](img/medium.png) | ✅ |
 |156| [leetcode96_unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [unique-binary-search-trees](/problems/leetcode96_UniqueBinarySearchTrees/readme.md) | DP | ![](img/medium.png) | ✅✅ |
 |157| [leetcode31_next-permutation](https://leetcode-cn.com/problems/next-permutation/) | [next-permutation](/problems/leetcode31_NextPermutation/readme.md) | Array | ![](img/medium.png) | ✅ |
-|158| [leetcode95_unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [unique-binary-search-trees-ii](/problems/leetcode31_NextPermutation/readme.md) | Array | ![](img/medium.png) | ✅ |
+|158| [leetcode95_unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [unique-binary-search-trees-ii](/problems/leetcode95_UniqueBinarySearchTreesII/readme.md) | Recursive | ![](img/medium.png) | ✅✅ |
+|159| [leetcode36_valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [valid-sudoku](/problems/leetcode36_ValidSudoku/readme.md) | Array | ![](img/medium.png) | ❌ |
+|160| [leetcode41_first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/) | [first-missing-positive](/problems/leetcode41_FirstMissingPositive/readme.md) | Array | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
