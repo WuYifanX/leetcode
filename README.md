@@ -166,6 +166,17 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |158| [leetcode95_unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [unique-binary-search-trees-ii](/problems/leetcode95_UniqueBinarySearchTreesII/readme.md) | Recursive | ![](img/medium.png) | ✅✅ |
 |159| [leetcode36_valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku/) | [valid-sudoku](/problems/leetcode36_ValidSudoku/readme.md) | Array | ![](img/medium.png) | ❌ |
 |160| [leetcode41_first-missing-positive](https://leetcode-cn.com/problems/first-missing-positive/) | [first-missing-positive](/problems/leetcode41_FirstMissingPositive/readme.md) | Array | ![](img/medium.png) | ✅ |
+|161| [leetcode155_min-stack](https://leetcode-cn.com/problems/min-stack/) | [min-stack](/problems/leetcode155_MinStack/readme.md) | Stack | ![](img/easy.png) | ✅ |
+|162| [leetcode160_intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [intersection-of-two-linked-lists](/problems/leetcode160_IntersectionofTwoLinkedLists/readme.md) | ListNode | ![](img/easy.png) | ❌ |
+|163| [leetcode169_majority-element](https://leetcode-cn.com/problems/majority-element/) | [majority-element](/problems/leetcode169_MajorityElement/readme.md) | Array | ![](img/easy.png) | ❌ |
+|164| [leetcode172_factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [majority-element](/problems/leetcode169_MajorityElement/readme.md) | Math | ![](img/easy.png) | ✅ |
+|165| [leetcode171_excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [excel-sheet-column-number](/problems/leetcode171_ExcelSheetColumnNumber/readme.md) | Math | ![](img/easy.png) | ❌ |
+|166| [leetcode268_missing-number](https://leetcode-cn.com/problems/missing-number/) | [missing-number](/problems/leetcode268_MissingNumber/readme.md) | Array | ![](img/easy.png) | ❌ |
+|167| [leetcode326_power-of-three](https://leetcode-cn.com/problems/power-of-three/) | [power-of-three](/problems/leetcode326_PowerofThree/readme.md) | Math | ![](img/easy.png) | ✅ |
+|168| [leetcode344_reverse-string](https://leetcode-cn.com/problems/reverse-string/) | [reverse-string](/problems/leetcode344_ReverseString/readme.md) | String | ![](img/easy.png) | ❌ |
+|169| [leetcode387_first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [first-unique-character-in-a-string](/problems/leetcode326_PowerofThree/readme.md) | Math | ![](img/easy.png) | ❌  |
+|170| [leetcode189_rotate-array](https://leetcode-cn.com/problems/rotate-array/) | [rotate-array](/problems/leetcode189_RotateArray/readme.md) | Math | ![](img/easy.png) | ✅  |
+|171| [leetcode105_construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [construct-binary-tree-from-preorder-and-inorder-traversal](/problems/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/readme.md) | Tree | ![](img/medium.png) | ✅  |
 
 ### backtracking
 401 417  37  
