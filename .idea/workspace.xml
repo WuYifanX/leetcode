@@ -2,32 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a3aefd-af96-4c4c-9147-d5dfa1dbadf3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problems/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode155_MinStack/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode155_MinStack/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode160_IntersectionofTwoLinkedLists/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode160_IntersectionofTwoLinkedLists/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode169_MajorityElement/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode169_MajorityElement/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode169_MajorityElement/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode171_ExcelSheetColumnNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode171_ExcelSheetColumnNumber/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode172_FactorialTrailingZeroes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode172_FactorialTrailingZeroes/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode189_RotateArray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode189_RotateArray/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode268_MissingNumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode268_MissingNumber/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode326_PowerofThree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode326_PowerofThree/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode344_ReverseString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode344_ReverseString/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode387_FirstUniqueCharacterinaString/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problems/leetcode387_FirstUniqueCharacterinaString/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode116_PopulatingNextRightinEachNode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode116_PopulatingNextRightinEachNode/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode162_FindPeakElement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode179_LargestNumber/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode238_ProductofArrayExceptSelf/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode238_ProductofArrayExceptSelf/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode287_FindtheDuplicateNumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode287_FindtheDuplicateNumber/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode617_MergeTwoBinaryTrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/leetcode617_MergeTwoBinaryTrees/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/utils/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode31_NextPermutation/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode31_NextPermutation/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode31_NextPermutation/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode31_NextPermutation/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +39,29 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="250">
-                <caret line="180" column="16" lean-forward="true" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
+              <first_editor relative-caret-position="409">
+                <caret line="187" column="126" selection-start-line="187" selection-start-column="126" selection-end-line="187" selection-end-column="126" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="7" lean-forward="true" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="238">
+                <caret line="27" column="37" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,24 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/problems/leetcode60_PermutationSequence/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode67_AddBinary/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode67_AddBinary/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode69_Sqrtx/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode69_Sqrtx/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/readme.me" />
-        <option value="$PROJECT_DIR$/problems/leetcode73_SetMatrixZeroes/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode73_SetMatrixZeroes/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/Solution2.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode81_SearchinRotatedSortedArrayII/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode81_SearchinRotatedSortedArrayII/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode89_GrayCode/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode89_GrayCode/readme.md" />
-        <option value="$PROJECT_DIR$/problems/leetcode89_GrayCode/Solution2.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode96_UniqueBinarySearchTrees/Solution.java" />
-        <option value="$PROJECT_DIR$/problems/leetcode96_UniqueBinarySearchTrees/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode31_NextPermutation/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode31_NextPermutation/readme.md" />
         <option value="$PROJECT_DIR$/problems/leetcode95_UniqueBinarySearchTreesII/Solution.java" />
@@ -191,6 +186,24 @@
         <option value="$PROJECT_DIR$/problems/leetcode189_RotateArray/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/Solution.java" />
         <option value="$PROJECT_DIR$/problems/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode617_MergeTwoBinaryTrees/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode617_MergeTwoBinaryTrees/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode238_ProductofArrayExceptSelf/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode238_ProductofArrayExceptSelf/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode287_FindtheDuplicateNumber/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode287_FindtheDuplicateNumber/readme.md" />
+        <option value="$PROJECT_DIR$/problems/utils/Node.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode116_PopulatingNextRightinEachNode/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode116_PopulatingNextRightinEachNode/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode162_FindPeakElement/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode162_FindPeakElement/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode179_LargestNumber/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode179_LargestNumber/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/Solution2.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/readme.md" />
+        <option value="$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/Solution.java" />
+        <option value="$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -226,6 +239,12 @@
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="problems" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode240_Searcha2DMatrixII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -251,11 +270,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode378_KthSmallestElementinaSortedMatrix" />
       <recent name="leetcode169_MajorityElement" />
       <recent name="leetcode95_UniqueBinarySearchTreesII" />
       <recent name="leetcode89_GrayCode" />
       <recent name="leetcode74_Searcha2DMatrix" />
-      <recent name="leetcode55_JumpGame" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/problems/leetcode78_Subsets" />
@@ -277,20 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode155_MinStack.MinStack" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode155_MinStack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode387_FirstUniqueCharacterinaString.Solution" />
       <module name="leetcode" />
@@ -330,6 +336,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode287_FindtheDuplicateNumber.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode287_FindtheDuplicateNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode172_FactorialTrailingZeroes.Solution" />
       <module name="leetcode" />
@@ -345,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MinStack" />
       </list>
     </recent_temporary>
   </component>
@@ -369,12 +388,12 @@
       <workItem from="1577066057891" duration="46589000" />
       <workItem from="1577240720470" duration="118179000" />
       <workItem from="1577695879912" duration="109381000" />
-      <workItem from="1578225890453" duration="285496000" />
+      <workItem from="1578225890453" duration="318020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="572798000" />
+    <option name="totallyTimeSpent" value="605322000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,15 +408,15 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" weight="0.3393502" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" weight="0.20866425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50276244" side_tool="true" weight="0.37184116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974729" weight="0.20591862" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" visible="true" weight="0.37484586" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974729" visible="true" weight="0.20591862" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.37484586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32799014" />
@@ -416,22 +435,22 @@
       <window_info anchor="right" id="Key Promoter X" order="6" weight="0.3299639" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" weight="0.24620938" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49723756" weight="0.3393502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50276244" side_tool="true" weight="0.37184116" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32799014" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49819493" visible="true" weight="0.2589396" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.40443897" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974729" weight="0.20591862" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963897" weight="0.37484586" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32799014" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5787579" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50180507" side_tool="true" weight="0.26263872" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34648582" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50252706" side_tool="true" weight="0.26263872" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32799014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -637,199 +656,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problems/leetcode69_Sqrtx/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/readme.me">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode73_SetMatrixZeroes/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="84" column="3" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode73_SetMatrixZeroes/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode74_Searcha2DMatrix/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode81_SearchinRotatedSortedArrayII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="11" lean-forward="true" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode81_SearchinRotatedSortedArrayII/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2041">
-            <caret line="100" selection-start-line="100" selection-end-line="100" />
-            <folding>
-              <element signature="e#1815#1816#0" expanded="true" />
-              <element signature="e#1899#1900#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode89_GrayCode/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="576">
-            <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode89_GrayCode/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode89_GrayCode/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#764#765#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode96_UniqueBinarySearchTrees/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="704">
-            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode96_UniqueBinarySearchTrees/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode31_NextPermutation/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode31_NextPermutation/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode95_UniqueBinarySearchTreesII/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="858">
-            <caret line="39" selection-start-line="39" selection-end-line="39" />
-            <folding>
-              <element signature="imports" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode95_UniqueBinarySearchTreesII/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="3" lean-forward="true" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode95_UniqueBinarySearchTreesII/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/leetcode36_ValidSudoku/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1067,33 +893,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="3585" column="17" lean-forward="true" selection-start-line="3585" selection-start-column="17" selection-end-line="3585" selection-end-column="17" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1656">
           <caret line="621" column="8" selection-start-line="621" selection-start-column="8" selection-end-line="621" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problems/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1107,11 +910,209 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode617_MergeTwoBinaryTrees/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode617_MergeTwoBinaryTrees/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode238_ProductofArrayExceptSelf/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="17" column="44" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode238_ProductofArrayExceptSelf/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode287_FindtheDuplicateNumber/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="194">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode105_ConstructBinaryTreefromPreorderandInorderTraversal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode116_PopulatingNextRightinEachNode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode116_PopulatingNextRightinEachNode/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="428">
+            <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/utils/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode162_FindPeakElement/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="271">
+            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode287_FindtheDuplicateNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode162_FindPeakElement/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="270" column="6" lean-forward="true" selection-start-line="270" selection-start-column="6" selection-end-line="270" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="1432" column="20" lean-forward="true" selection-start-line="1432" selection-start-column="20" selection-end-line="1432" selection-end-column="20" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1159" column="18" lean-forward="true" selection-start-line="1159" selection-start-column="18" selection-end-line="1159" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode179_LargestNumber/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode179_LargestNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <folding>
+              <element signature="e#371#372#0" expanded="true" />
+              <element signature="e#421#422#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode378_KthSmallestElementinaSortedMatrix/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="7" lean-forward="true" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/leetcode240_Searcha2DMatrixII/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="27" column="37" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="250">
-            <caret line="180" column="16" lean-forward="true" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
+          <first_editor relative-caret-position="409">
+            <caret line="187" column="126" selection-start-line="187" selection-start-column="126" selection-end-line="187" selection-end-column="126" />
           </first_editor>
           <second_editor />
         </state>
