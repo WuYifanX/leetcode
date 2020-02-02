@@ -19,3 +19,33 @@ There is only one duplicate number in the array, but it could be repeated more t
 
 # Solution
 
+1. 一般来说使用排序和hashmap来实现. 
+但是如果要实现题目的要求, 可以参考这里使用链表的环的方法:
+`https://leetcode-cn.com/problems/find-the-duplicate-number/solution/287xun-zhao-zhong-fu-shu-by-kirsche/`
+
+```java
+class Solution {
+  public int findDuplicate(int[] nums) {
+    if (nums.length == 0 || nums.length == 1) return -1;
+
+    int slow = nums[0];
+    int fast = nums[0];
+
+    while (true) {
+      slow = nums[slow];
+      fast = nums[nums[fast]];
+      if (slow == fast) break;
+    }
+
+    int cursor = nums[0];
+
+    while (slow != cursor) {
+      slow = nums[slow];
+      cursor = nums[cursor];
+    }
+
+    return slow;
+  }
+}
+
+```

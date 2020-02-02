@@ -182,10 +182,14 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |174| [leetcode238_product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [product-of-array-except-self](/problems/leetcode238_ProductofArrayExceptSelf/readme.md) | Array | ![](img/medium.png) | ✅  |
 |175| [leetcode287_find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [find-the-duplicate-number](/problems/leetcode287_FindtheDuplicateNumber/readme.md) | Array | ![](img/medium.png) | ✅  |
 |176| [leetcode162_find-peak-element](https://leetcode-cn.com/problems/find-peak-element/) | [find-peak-element](/problems/leetcode162_FindPeakElement/readme.md) | BinarySearch | ![](img/medium.png) | ✅  |
-|177| [leetcode179_largest-number](https://leetcode-cn.com/problems/largest-number/) | [largest-number](/problems/leetcode179_LargestNumber/readme.md) | Array,String | ![](img/medium.png) | ✅  |
+|177| [leetcode179_largest-number](https://leetcode-cn.com/problems/largest-number/) | [largest-number](/problems/leetcode179_LargestNumber/readme.md) | Array,String | ![](img/medium.png) | ✅ |
 |178| [leetcode378_kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [kth-smallest-element-in-a-sorted-matrix](/problems/leetcode378_KthSmallestElementinaSortedMatrix/readme.md) | PriorityQueue, BinarySearch | ![](img/medium.png) | ✅  |
-|179| [leetcode240_search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [search-a-2d-matrix-ii](/problems/leetcode240_Searcha2DMatrixII/readme.md) | DivideAndConker | ![](img/medium.png) | ✅  |
-|180| [leetcode239_sliding-window-maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [sliding-window-maximum](/problems/leetcode240_Searcha2DMatrixII/readme.md) | DivideAndConker | ![](img/medium.png) | ✅  |
+|179| [leetcode240_search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [search-a-2d-matrix-ii](/problems/leetcode240_Searcha2DMatrixII/readme.md) | DivideAndConker | ![](img/medium.png) | ✅ |
+|180| [leetcode239_sliding-window-maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [sliding-window-maximum](/problems/leetcode239_SlidingWindowMaximum/readme.md) | Stack | ![](img/hard.png) | ✅ |
+|181| [leetcode412_fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz/) | [fizz-buzz](/problems/leetcode412_FizzBuzz/readme.md) | Mimic | ![](img/easy.png) | ❌  |
+|182| [leetcode42_trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/) | [trapping-rain-water](/problems/leetcode42_TrappingRainWater/readme.md) | DP, Two-Point | ![](img/hard.png) | ✅ |
+|183| [leetcode84_largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [largest-rectangle-in-histogram](/problems/leetcode84_LargestRectangleinHistogram/readme.md) | Stack,Two-Point | ![](img/hard.png) | ✅ |
+|184| [leetcode152_maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [maximum-product-subarray](/problems/leetcode152_MaximumProductSubarray/readme.md) | DP | ![](img/medium.png) | ✅ |
 
 ### backtracking
 401 417  37  
