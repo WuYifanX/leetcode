@@ -13,8 +13,8 @@ class Solution {
   public String getPermutation(int n, int k) {
     if (n == 0) return "";
     if (n == 1) return "1";
-
     N = n;
+    String.valueOf(2);
     this.k = k;
     used = new boolean[n + 1];
     dfs(n);

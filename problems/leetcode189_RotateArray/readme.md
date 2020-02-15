@@ -27,3 +27,30 @@ Could you do it in-place with O(1) extra space?
 
 # Solution
 
+先把array reverse一次, 然后再把前面的k-1位reverse, 后面的部分也reverse.
+```java
+package leetcode189_RotateArray;
+
+class Solution2 {
+  public void rotate(int[] nums, int k) {
+    k = k % nums.length;
+    if (nums.length == 0 || k == 0) return;
+
+    reverseArray(nums, 0, nums.length - 1);
+    reverseArray(nums, 0, k - 1);
+    reverseArray(nums, k, nums.length - 1);
+  }
+
+  private void reverseArray(int[] nums, int start, int end) {
+    int temp;
+    while (start < end) {
+      temp = nums[start];
+      nums[start] = nums[end];
+      nums[end] = temp;
+      start++;
+      end--;
+    }
+  }
+}
+
+```

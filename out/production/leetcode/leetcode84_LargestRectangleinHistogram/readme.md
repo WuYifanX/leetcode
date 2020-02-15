@@ -40,3 +40,47 @@ class Solution {
 }
 
 ```
+
+2. 使用栈来处理:可以参考这里的解答.
+https://blog.csdn.net/Zolewit/article/details/88863970
+
+主要思路是利用一个单调栈, 这个栈保存了i之前的所有的单调增的值.
+然后计算之前所有的可能值. 也就是i之前的单调值和i形成的面积.
+
+```java
+package leetcode84_LargestRectangleinHistogram;
+
+import java.util.ArrayDeque;
+import java.util.Deque;
+
+class Solution2 {
+  public int largestRectangleArea(int[] heights) {
+    Deque<Integer> stack = new ArrayDeque<>();
+
+    int result = 0;
+    // -1 表示0之前的一个index.
+    stack.addFirst(-1);
+
+    for (int i = 0; i < heights.length; i++) {
+      // 计算之单调栈里面面积. 选择最大值.
+      while (stack.peekFirst() != -1 && heights[stack.peekFirst()] >= heights[i]) {
+        result = Math.max(result, heights[stack.pop()] * (i - stack.peekFirst() - 1));
+      }
+      // 这个是i前面的单调栈.
+      stack.addFirst(i);
+    }
+
+    // 最后清空stack的面积.
+    while (stack.peekFirst() != -1) {
+      result = Math.max(result, heights[stack.pop()] * (heights.length - stack.peekFirst() - 1));
+    }
+    return result;
+  }
+
+  public static void main(String[] args) {
+    int[] a = new int[] {2, 1, 5, 6, 2, 3};
+    System.out.println(new Solution2().largestRectangleArea(a));
+  }
+}
+
+```

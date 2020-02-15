@@ -190,6 +190,16 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 |182| [leetcode42_trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water/) | [trapping-rain-water](/problems/leetcode42_TrappingRainWater/readme.md) | DP, Two-Point | ![](img/hard.png) | ✅ |
 |183| [leetcode84_largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [largest-rectangle-in-histogram](/problems/leetcode84_LargestRectangleinHistogram/readme.md) | Stack,Two-Point | ![](img/hard.png) | ✅ |
 |184| [leetcode152_maximum-product-subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [maximum-product-subarray](/problems/leetcode152_MaximumProductSubarray/readme.md) | DP | ![](img/medium.png) | ✅ |
+|185| [leetcode334_increasing-triplet-subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | [increasing-triplet-subsequence](/problems/leetcode152_MaximumProductSubarray/readme.md) | DP | ![](img/medium.png) | ✅ |
+|186| [leetcode29_divide-two-integers](https://leetcode-cn.com/problems/divide-two-integers/) | [divide-two-integers](/problems/leetcode29_DivideTwoIntegers/readme.md) | Math | ![](img/medium.png) | ✅ |
+|187| [leetcode65_valid-number](https://leetcode-cn.com/problems/valid-number/) | [valid-number](/problems/leetcode65_ValidNumber/readme.md) | Math | ![](img/hard.png) | ✅ |
+|188| [leetcode140_word-break-ii](https://leetcode-cn.com/problems/word-break-ii/) | [word-break-ii](/problems/leetcode140_WordBreakII/readme.md) | Backtrack, DP | ![](img/hard.png) | ✅ |
+|189| [leetcode647_palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/) | [palindromic-substrings](/problems/leetcode647_PalindromicSubstrings/readme.md) | TwoPoint | ![](img/medium.png) | ✅ |
+
+### Binary Search
+
+https://www.liwei.party/2019/06/19/leetcode-solution-new/search-insert-position/#toc-heading-5
+https://www.educative.io/courses/coderust-hacking-the-coding-interview/lYg2l
 
 ### backtracking
 401 417  37  
@@ -202,6 +212,7 @@ My LeetCode homepage : [hunterxmoon - Leetcode](https://leetcode-cn.com/u/hunter
 
 ### 0-1 pack
 494
+
 
 ### Leetcode Retag
 
